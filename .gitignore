@@ -1,3 +1,16 @@
-_site
-.sass-cache
+#### joe made this: http://goel.io/joe
+
+#####=== Jekyll ===#####
+
+_site/
+.sass-cache/
 .jekyll-metadata
+
+#####=== Vim ===#####
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
