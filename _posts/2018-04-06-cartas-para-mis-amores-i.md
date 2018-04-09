@@ -13,7 +13,7 @@ suelo, como en el resto de sus sueños y no le preocupaba. El suspenso en el air
 lo mantuvo hasta que inevitablemente el péndulo inició su viaje de regreso, pero
 sin perder el cielo de vista. Mantuvo fuertes sus manos en las cadenas, hizo un
 suave movimiento de caderas y levantó los piés hacia arriba para repetir el
-proceso que le permite adueñarse de un paisaje único en sus ojos.
+proceso que le permitiría adueñarse de un paisaje único en sus ojos.
 
 Ve a su madre caminando a lo lejos y una sonrisa transforma su rostro; hay ropa
 moviéndose al viento sobre la soga a su espalda y el pasto largo cubriéndole las
@@ -33,7 +33,7 @@ tan fuertes que la desfiguran, de miedo y terror. Cae al piso fulminada y
 envejecida en un instante, con la piel marchita hasta los huesos y los
 cabellos blancos, quebrados. Las nubes también se escapan del depredador que
 aumenta su brillo abarcando cada rincón. Huyen de la bóveda celeste vuelta
-púrpura y roja.
+púrpura y roja después.
 
 Aún sentado en la hamaca, su cuerpo intenta perpetuar el péndulo de su
 existencia. Siente el cuerpo de su madre no muy lejos tendido en el suelo y 
@@ -41,7 +41,7 @@ trata de ignorar lo visto, pero ya no puede sujetar su angustia. El fuego de la
 estrella quema ya su piel, la vuelve negra y le duele, y en un último intento de
 desobediencia no levanta la mirada. Pero un arrebato del corazón hizo que se
 movieran los hilos que lo ataban a su destino e hizo girar sus ojos hacia ese
-dios furibundo, lentamente. Sintió sus pupilas atravesadas ante la luz que todo
+dios furibundo, lentamente. Sintió sus pupilas atravesadas por la luz que todo
 lo cubría y todo lo quemaba. Cuando no había nada más que el blanco fulminante
 abrasando sus cuencas, la hamaca y los huesos de sus manos, la piel
 desprendiéndose de sus piernas, cuando sintió el abrazo de la estrella en su
@@ -51,7 +51,7 @@ se encontraba, lo quisiera o no. Nadie iba a impedirlo. Y su mundo desapareció.
 
 Un vacío blanco lo cubría todo, como una nueva existencia dentro de su sueño. No
 había colores, ni cuerpo, ni luces, ni arriba o abajo. No había recuerdos.
-Estaba su mente en paz libre de lastres y cicatrices, bajo la cadencia de su
+Estaba su mente en paz, libre de lastres y cicatrices, bajo la cadencia de su
 respiración constante. Como marcando el paso lento por un camino que no podía
 ver, una música primitiva que venía de su interior. Inhalación, pausa,
 exalación. Inhalación, pausa. Exalación. Un paso a la vez, un golpe del ritmo,
@@ -65,12 +65,12 @@ destino era despertar.
 Se despertó finalmente con un susto luego del segundo o tercer fogonazo de
 plasma. El pecho le ardía y su corazón latía muy fuerte; le dolía respirar. Oh,
 sus ojos y dolor... Los crugidos de la estructura inundaban la cabina y sentía
-las gotas heladas caer en su rostro como una lluvia helada; nada de eso era una
-buena señal en un viaje interestelar. Apenas pudo adivinar lo que estaba
+las gotas heladas caer en su rostro como una lluvia de agujas; nada de eso era
+una buena señal en un viaje interestelar. Apenas pudo adivinar lo que estaba
 ocurriendo: las primeras etapas del ingreso a una atmósfera planetaria habían
-comenzado. Apenas podía pensar por el ruido de la cabina destartalándose y el
+comenzado. Apenas podía pensar por el ruido de la cabina destartalándose, y el
 fragor generado por la fricción del mundo en su intento por repeler al extraño
-era ensordecedor hasta la locura. Sus ojos no dejaban de dolorle y no lograba
+era ensordecedor hasta la locura. Sus ojos no dejaban de dolerle y no lograba
 elevar sus párpados ni distinguir imagen alguna, pero estar despierto
 significaba el fin del viaje. ¡Había sobrevivido! Y su corazón latía nuevamente
 luego de 300 años en la negrura del espacio. Rompió a llorar con todas sus
