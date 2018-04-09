@@ -28,12 +28,12 @@ Pero el sueño cambió cuando ella gira su cuerpo, buscando la fuente de un
 sonido, un llamado. La estrella del cielo le habla, le grita: la está mirando
 con el peso de un dios que le reclama lo que es adeudado. Él sabe que su madre
 lo ha ocultado de la estrella, que ha venido a buscarlo, y su corazón comienza a
-latir con fuerza al verla correr en su dirección. Se su rostro expresa
-sentimientos tan fuertes que la desfiguran: miedo, terror. Cae al piso fulminada
-y envejecida en un instante, con la piel marchita hasta los huesos y los
-cabellos blancos, quebrados. Las nubes también se han escapan del brillo del
-depredador que aumenta su brillo abarcando cada rincón. Huyen de la bóveda
-celeste vuelta púrpura y roja.
+latir con fuerza al verla correr en su dirección. Su rostro expresa sentimientos
+tan fuertes que la desfiguran, de miedo y terror. Cae al piso fulminada y
+envejecida en un instante, con la piel marchita hasta los huesos y los
+cabellos blancos, quebrados. Las nubes también se escapan del depredador que
+aumenta su brillo abarcando cada rincón. Huyen de la bóveda celeste vuelta
+púrpura y roja.
 
 Aún sentado en la hamaca, su cuerpo intenta perpetuar el péndulo de su
 existencia. Siente el cuerpo de su madre no muy lejos tendido en el suelo y 
