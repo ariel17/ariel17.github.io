@@ -96,7 +96,7 @@ bajar desde lo alto e inalcanzable, ojos beningnos y malignos por igual. Un
 rumor corrió entre las personas, en la noche en la que nadie durmió: decían que
 un *dragón rojo* había cruzado el aire de la noche, que estaba herido de muerte
 y sangraba a través del firmamento, que sus alas se deshacían. ¿De dónde venía?
-¿Traía un mensaje o era el mensaje? Algunos decían haberlo visto derrumbarse en
+¿Traía un mensaje, o era el mensaje? Algunos decían haberlo visto derrumbarse en
 el suelo en el horizonte y que no se movía. Otros encendieron el fuego,
 reunieron a sus hijos y jóvenes de otras familias y les relataron historias de
 otros dragones, miles de años atrás. Historias que hablaban de algo grande que
