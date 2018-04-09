@@ -94,9 +94,14 @@ Desde el suelo se podía ver cómo su llegada dibujaba un arco de fuego en el
 cielo nocturno y las criaturas del mundo se unieron a observar al recién llegado
 bajar desde lo alto e inalcanzable, ojos beningnos y malignos por igual. Un
 rumor corrió entre las personas, en la noche en la que nadie durmió: decían que
-un *Dragón Rojo* había cruzado el aire de la noche, que estaba herido de muerte
+un *dragón rojo* había cruzado el aire de la noche, que estaba herido de muerte
 y sangraba a través del firmamento, que sus alas se deshacían. ¿De dónde venía?
-¿Traía un mensaje? Algunos decían haberlo visto derrumbarse en el suelo y que no
-se movía. Algunos recordaron historias de otros dragones, miles de años atrás.
-Algo que se había perdido en el tiempo, que era parte de ellos. Quizás era una
-oportunidad para recordar.
+¿Traía un mensaje o era el mensaje? Algunos decían haberlo visto derrumbarse en
+el suelo en el horizonte y que no se movía. Otros encendieron el fuego,
+reunieron a sus hijos y jóvenes de otras familias y les relataron historias de
+otros dragones, miles de años atrás. Historias que hablaban de algo grande que
+habían olvidado y se había perdido en el tiempo, que era parte de ellos. De
+todos. Los más viejos escuchaban bajo sus pieles esas historias relatarse una
+vez más de la boca de sus hijos y evocaban el momento en que ellos lo hicieron
+en la antigüedad, cómo sus padres lo hicieron con ellos... Quizás el dragón
+traía una oportunidad para recordar algo más que viejas historias.
