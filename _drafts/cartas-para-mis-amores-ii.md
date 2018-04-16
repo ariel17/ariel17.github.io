@@ -5,12 +5,27 @@ title: Cartas para mis amores II
 
 # El desierto en la mente
 
-El cosmonauta aprendió luego de varios días de caminata que el desierto aquel no
-era lo que el nombre pintaba; estaba bastante cubierto de vegetación, sino que
-el desierto estaba en el alma.
+Tropezarse cada par de pasos era inevitable. Después de todo, la poca luz
+matinal no atravesaba la bruma espesa, tanto que cercaba su vista a unos pasos a
+la redonda y tapaba por completo sus tobillos. El amanecer iba tomando su forma
+y el cosmonauta aprendió a medida que avanzaba que el desierto aquel no era lo
+que el nombre le pintaba; estaba bastante cubierto de vegetación y algunos
+animales se escondían rápidamente bajo la tierra al verlo aparecer. Pero había
+una necesidad en medio de su pecho que no podía poner en palabras.
 
-Luego de que su nave aterrizara a duras penas, la puerta se abrió y una tribu lo
-capturó. El interrogatorio duró poco y no pudo entender si le respondieron o no
+Cuando la nave impactó contra la superficie, él tenía los ojos cerrados y seguía
+llorando. Las luces se apagaron pero la luz anaranjada del metal que aún seguía
+caliente iluminaban su rostro y la tierra que golpeaba al trasladarse.
+
+??????
+
+
+Se despertó y estaba atado de piés y manos, haciendo una cruz con su cuerpo, en
+lo alto de una tarima. Eran humanos como él aunque evidentemente 
+
+
+
+El interrogatorio duró poco y no pudo entender si le respondieron o no
 la pregunta que trajo desde su mundo. Lo arrojaron al desierto con la amenaza de
 la muerte pero no estaba convencido: había un velo de tabú en lo que estaban
 haciendo, sospechaba que no era la primera vez que sucedía. Entonces, al fin,
@@ -28,3 +43,7 @@ esporas de las flores no dejaban de envenenar su cuerto y llenar su mente de
 huecos, hasta caer rendido bajo la luz azul del mediodía. Unas manos sobre sus
 hombros lo arrastraron fuera del desierto pero no de sus pensamientos: las
 naves, el planeta, sus padres, la misión, el despegue, el adiós, la pregunta.
+
+---------
+
+El desierto estaba en el alma
