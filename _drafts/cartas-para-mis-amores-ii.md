@@ -31,7 +31,7 @@ claridad.
 - Durmiente, tu dragón ha muerto. Habla o te dejaremos en las puertas del
   desierto.
 
-- Vine porque tengo una misión. ¿Son Uds. parte de la colonia original?
+- Vine porque tengo una misión. ¿Son Uds. descendientes de la colonia original?
 
 ???????
 
