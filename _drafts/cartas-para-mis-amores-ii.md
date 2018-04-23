@@ -6,24 +6,34 @@ title: Cartas para mis amores II
 # El desierto en la mente
 
 Tropezarse cada par de pasos era inevitable. Después de todo, la poca luz
-matinal no atravesaba la bruma espesa, tanto que cercaba su vista a unos pasos a
-la redonda y tapaba por completo sus tobillos. El amanecer iba tomando su forma
-y el cosmonauta aprendió a medida que avanzaba que el desierto aquel no era lo
-que el nombre le pintaba; estaba bastante cubierto de vegetación y algunos
-animales se escondían rápidamente bajo la tierra al verlo aparecer. Pero había
-una necesidad en medio de su pecho que no podía poner en palabras.
+matinal no atravesaba la bruma espesa del amanecer y era tanta la humedad que la
+sentía fría en la nariz y cortaba su vista a unos pasos a la redonda. El
+amanecer avanzaba sobre el horizonte escondido y el cosmonauta aprendió a medida
+que andaba que el desierto aquel no era lo que el nombre le pintaba; estaba
+bastante cubierto de vegetación y algunos animales se escondían rápidamente bajo
+la tierra al verlo aparecer. Sin embargo, había una necesidad en medio de su
+pecho que no podía poner en palabras y que no era producto de todo lo que había
+sucedido.
 
 Cuando la nave impactó contra la superficie, él tenía los ojos cerrados y seguía
-llorando. Las luces se apagaron pero la luz anaranjada del metal que aún seguía
-caliente iluminaban su rostro y la tierra que golpeaba al trasladarse.
-
-??????
-
+abrazando sus hombros, siguiendo el protocolo de aterrizaje que le había
+aprendido. Sintió el temblor y el estruendo y la fricción contra la tierra que
+estaba reduciendo la velocidad. Entonces las luces se apagaron dentro de la
+cabina y sólo quedaron los gruñidos del metal retorciéndose.
 
 Se despertó y estaba atado de piés y manos, haciendo una cruz con su cuerpo, en
-lo alto de una tarima. Eran humanos como él aunque evidentemente 
+lo alto de una tarima. Tenía mucha sed y le dolía el pecho por donde le cruzaban
+las cuerdas. Había personas a su alrededor, mirándolo con curiosidad pero sobre
+todo con miedo y eso era peligroso. No pudo evitar sonreir con nerviosismo;
+estar crucificado ya era una señal clara del peligro, pero no podía pensar con
+claridad.
 
+- Durmiente, tu dragón ha muerto. Habla o te dejaremos en las puertas del
+  desierto.
 
+- Vine porque tengo una misión. ¿Son Uds. parte de la colonia original?
+
+???????
 
 El interrogatorio duró poco y no pudo entender si le respondieron o no
 la pregunta que trajo desde su mundo. Lo arrojaron al desierto con la amenaza de
