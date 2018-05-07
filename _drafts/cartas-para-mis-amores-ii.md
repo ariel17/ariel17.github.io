@@ -10,35 +10,37 @@ matinal no atravesaba la bruma espesa del amanecer y era tanta la humedad que la
 sentía fría en la nariz y cortaba su vista a unos pasos a la redonda. El
 amanecer avanzaba sobre el horizonte escondido y el cosmonauta aprendió a medida
 que andaba que el desierto aquel no era lo que el nombre le pintaba; estaba
-bastante cubierto de vegetación y algunos animales se escondían rápidamente bajo
-la tierra al verlo aparecer. Sin embargo, había una necesidad en medio de su
-pecho que no podía poner en palabras y que no era producto de todo lo que había
-sucedido.
+bastante cubierto de vegetación y algunos animales pequeños se escondían
+rápidamente bajo la tierra al verlo aparecer. Sin embargo, desde que la
+oscuridad se había alejado y había dado paso a ese ambiente gris, sentía una
+necesidad en medio de su pecho que no podía poner en palabras pero que no era
+producto de todo lo que había sucedido.
 
 Cuando la nave impactó contra la superficie, él tenía los ojos cerrados y seguía
-abrazando sus hombros, siguiendo el protocolo de aterrizaje que le había
-aprendido. Sintió el temblor y el estruendo y la fricción contra la tierra que
-estaba reduciendo la velocidad. Entonces las luces se apagaron dentro de la
-cabina y sólo quedaron los gruñidos del metal retorciéndose.
+abrazando sus hombros, siguiendo el protocolo de aterrizaje que había aprendido.
+Sintió el temblor, el estruendo y la fricción contra la tierra que estaba
+reduciendo la velocidad. Las luces luego se apagaron dentro de la cabina y sólo
+quedaron los gruñidos del metal retorciéndose.
 
-Se despertó y estaba atado de piés y manos, haciendo una cruz con su cuerpo, en
-lo alto de una tarima. Tenía mucha sed y le dolía el pecho por donde le cruzaban
-las cuerdas. Había personas a su alrededor, mirándolo con curiosidad pero sobre
-todo con miedo y eso era peligroso. No pudo evitar sonreir con nerviosismo;
-estar crucificado ya era una señal clara del peligro, pero no podía pensar con
-claridad.
+Se despertó cuando sintió que lo obligaban a beber agua, unas manos pequeñas
+sostenían su cabeza y le dolía mucho el cuello. Escuchaba un murmullo de gentío
+pero una voz se hizo más fuerte entre el tumulto:
 
-- Durmiente, tu dragón ha muerto. Habla o te dejaremos en las puertas del
-  desierto.
+- Jinete, tu dragón ha muerto. Te sacamos de sus entrañas. ¿A qué has bajado del
+  cielo?
 
-- Vine porque tengo una misión. ¿Son Uds. descendientes de la colonia original?
+- Cruzamos el espacio entre los mundos porque tenemos una misión. ¿Dónde están
+  mis compañeros?
 
-???????
+- No hay otros jinetes ni dragones.
 
-El interrogatorio duró poco y no pudo entender si le respondieron o no
-la pregunta que trajo desde su mundo. Lo arrojaron al desierto con la amenaza de
-la muerte pero no estaba convencido: había un velo de tabú en lo que estaban
-haciendo, sospechaba que no era la primera vez que sucedía. Entonces, al fin,
+Había llegado solo y no dejaba de pensar en ellos y en el dolor del cuerpo que
+lo dejaba inmóvil. Al quinto día de la caida, el cosmonauta pudo levantarse y
+salir de la choza donde lo tenían recluido. Lo habían atendido bien, pero no le
+dijeron ni una palabra más, a pesar de sus intentos constantes de comunicación.
+
+---------
+
 pudo pensar en sus amigos. Miró al cielo y buscó la estrella guía, usó sus manos
 para calcular la distancia y sintió dar un vuelco a su corazón, pero ahí estaba
 una estrella pequeña y evidentemente artificial: la propulsión de una nave. Una
