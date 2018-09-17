@@ -14,7 +14,7 @@ Some lessons learned on software development in 2018:
 
 * **If something goes wrong, just rollback:** on production deployments,
   downtime is the most important metric to observe. When things doesn't go as
-  expected the is no time to guess what's going on; just put back the previous
+  expected there is no time to guess what's going on; just put back the previous
   known working version. You can found and fix the bug later, with patience and
   no hurries.
 
