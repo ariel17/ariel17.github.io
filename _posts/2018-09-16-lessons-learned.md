@@ -4,6 +4,8 @@ title: Lessons learned
 date: 2018-09-16 22:32 -0300
 ---
 
+[Next: Lessons learned II]({% post_url 2018-11-03-lessons-learned-ii %})
+
 Some lessons learned on software development in 2018:
 
 * **Take control of the data:** when moving things around, like migrating data,

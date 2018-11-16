@@ -4,9 +4,9 @@ title: Lessons learned II
 date: 2018-11-03 14:31 -0300
 ---
 
-[Link to previous Lessons learned.]({% post_url 2018-09-16-lessons-learned %})
+[Prev: Lessons learned]({% post_url 2018-09-16-lessons-learned %})
 
-Some lessons learned in 2018:
+[Next: Lessons learned III]({% post_url 2018-11-16-lessons-learned-iii %})
 
 ## On communication
 
