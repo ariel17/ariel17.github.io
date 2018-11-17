@@ -13,6 +13,7 @@ This is a raw list to use for building 2019's priorities:
 * ["Clean Architecture" by Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
 * ["Irresistible APIs" by Kirsten L. Hunter](https://www.goodreads.com/book/show/27037125-irresistible-apis)
 * ["Grooking Algorithms" by Aditya Y. Bhargava](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+* ["Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum & Maarten van Steen](https://www.goodreads.com/book/show/405614.Distributed_Systems)
 
 # Management
 
