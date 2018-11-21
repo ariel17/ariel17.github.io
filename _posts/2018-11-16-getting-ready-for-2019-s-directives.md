@@ -26,3 +26,4 @@ This is a raw list to use for building 2019's priorities:
 
 * [Just-in-Time Knowledge: Learn What You Need, When You Need It](https://hackernoon.com/just-in-time-knowledge-learn-what-you-need-when-you-need-it-a48f77043287)
 * [How to remember anything forever-ish](https://ncase.me/remember/)
+* [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
