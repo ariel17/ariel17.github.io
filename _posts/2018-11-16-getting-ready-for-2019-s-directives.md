@@ -14,6 +14,9 @@ This is a raw list to use for building 2019's priorities:
 * ["Irresistible APIs" by Kirsten L. Hunter](https://www.goodreads.com/book/show/27037125-irresistible-apis)
 * ["Grooking Algorithms" by Aditya Y. Bhargava](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 * ["Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum & Maarten van Steen](https://www.goodreads.com/book/show/405614.Distributed_Systems)
+* ["Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)" by Michael T. Nygard](https://www.goodreads.com/book/show/1069827.Release_It_)
+* ["Codermetrics" by Jonathan Alexander](https://www.goodreads.com/book/show/12381856-codermetrics)
+* []()
 
 # Management
 
@@ -27,3 +30,9 @@ This is a raw list to use for building 2019's priorities:
 * [Just-in-Time Knowledge: Learn What You Need, When You Need It](https://hackernoon.com/just-in-time-knowledge-learn-what-you-need-when-you-need-it-a48f77043287)
 * [How to remember anything forever-ish](https://ncase.me/remember/)
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+
+# Fun
+
+* ["Invasion of the Overworld: A Minecraft Novel" by Mark Cheverton](https://www.goodreads.com/book/show/18281341-invasion-of-the-overworld)
+* ["Battle for the Nether: Book Two in the Gameknight999 Series: An Unofficial Minecrafter’s Adventure" (Gameknight999 #2) by Mark Cheverton](https://www.goodreads.com/book/show/23126744-battle-for-the-nether)
+* ["Confronting the Dragon (Gameknight999 #3)" by Mark Cheverton](https://www.goodreads.com/book/show/22928915-confronting-the-dragon)
