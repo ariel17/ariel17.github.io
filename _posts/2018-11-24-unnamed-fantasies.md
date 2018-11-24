@@ -1,6 +1,6 @@
 ---
 layout: post
-title: unnamed fantasies
+title: Unnamed fantasies
 ---
 
 Había un número en el fondo de mi cabeza. Gritando, lo sentía tirar de mi

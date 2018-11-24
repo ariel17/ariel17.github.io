@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lessons learned III
+title: Lessons learned III
 ---
 
 [Prev: Lessons learned II]({% post_url 2018-11-03-lessons-learned-ii %})
