@@ -16,3 +16,6 @@ title: Lessons learned IV
 
 * **Leaders must be predecibles:** My schedule should be planner to suffer the
   less on unexpected events.
+
+* **Expose everything I do in my tracking system:** Keep work visible for
+  everyone.
