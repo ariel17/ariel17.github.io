@@ -10,3 +10,9 @@ title: Lessons learned IV
 
 * **Be wise about choosing wich technical debt I will create:** It can come
   back in the night to hunt me.
+
+* **I forget everything when multitasking:** I must keep a journal/diary/ticket
+  system to collect any progress on multiple battle fronts.
+
+* **Leaders must be predecibles:** My schedule should be planner to suffer the
+  less on unexpected events.
