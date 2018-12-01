@@ -64,7 +64,7 @@ recoger lo que su Dios Rey le había devuelto.
 
 --- Al norte.
 
-El mapa del mundo se había hecho cenizas. Las fronteras desaparecieron, con el
+El mapa del mundo se había hecho cenizas. Las fronteras desaparecieron con el
 mazazo del hambre y el horizonte existía sólo cuando el Dios Rey marcaba el
 rumbo.
 
