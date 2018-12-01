@@ -32,7 +32,7 @@ of it, my requirements are as follow:
 
 * Java
 
-**Design:**
+**Web:**
 
 * HTML
 * LESS
