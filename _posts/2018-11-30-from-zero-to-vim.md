@@ -22,8 +22,15 @@ of it, my requirements are as follow:
 
 **Visuals:**
 
-- [Line numbers](#visuals)
-- [Cursor position (row/col)](#visuals)
+* [Line numbers](#visuals)
+* [Cursor position (row/col)](#visuals)
+* Solarized color scheme.
+* Nice status bar.
+
+**Navigation:**
+
+- File tree navigation.
+- Search in files.
 
 **Programming languages:**
 
