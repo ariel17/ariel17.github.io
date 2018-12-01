@@ -41,8 +41,8 @@ porque ahí venía más y sus necesidades no esperaban a nadie.
 
 El templo estaba hecho con piedras y sangre, a la vieja usanza de los castillos
 de antaño. Entre roca y roca se apilaban las manos cercenadas de los que fueron
-aperitivos, todos con el índice apuntando al que regía el destino de todos. Un
-niño entró en la nave, a pié desnudo y cubierto de suciedad, de unos 8 años de
+aperitivos, todos con el índice apuntando al que regía el destino. Un niño
+entró en la nave, a pié desnudo y cubierto de suciedad, de unos 8 años de
 edad, lungo y atormentado por el terror, se acercó rengueando como pudo con su
 pierna sana y su muñón.
 
