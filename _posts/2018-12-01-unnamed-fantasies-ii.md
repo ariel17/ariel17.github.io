@@ -57,8 +57,8 @@ una flor de sangre se tratase.
 Los dedos resultaron servir para mucho. Ahora le servían más a él que a sus
 antigüos dueños. Lo pasó de una mano a la otra, ablandándolo, se lo metió en la
 boca. Antes de ceder a la tentación de masticarlo lo escupió al piso, cerca del
-niño arrodillado. Entre mocos y el dolor punzante, soltó su muñeca recoger lo 
-que su Dios Rey le había devuelto.
+niño arrodillado. Entre mocos y el dolor punzante, soltó su muñeca para
+recoger lo que su Dios Rey le había devuelto.
 
 --- ¿A dónde?
 
