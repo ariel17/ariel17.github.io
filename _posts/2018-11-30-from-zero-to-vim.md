@@ -20,7 +20,7 @@ I have it a non-fresh but unconfigured installation. I use ViM when I need to
 edit text, so I will use it from programming to editing CSV or blog posts.
 Because of it, my requirements are as follow:
 
-Programming languages:
+**Programming languages:**
 
 * Golang
 * Python
@@ -32,23 +32,23 @@ Programming languages:
 
 * Java
 
-Design:
+**Design:**
 
 * HTML
 * LESS
 * SASS
 * CSS3
 
-Documentation:
+**Documentation:**
 
 * RestructuredText
 * Markdown
 
-Other file support:
+**Other file support:**
 
 * TODO
 
-Plugin source and management
+**Plugin source and management:**
 
 * [VimAwesome](https://vimawesome.com/) as the plugin indexer.
 * [Pathogen](https://github.com/tpope/vim-pathogen)
