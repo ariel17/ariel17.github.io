@@ -44,6 +44,8 @@ of it, my requirements are as follow:
 
 * Java
 
+And respectives language lynter.
+
 **Web:**
 
 * HTML
@@ -58,7 +60,8 @@ of it, my requirements are as follow:
 
 **Other file support:**
 
-* TODO
+* XML
+* JSON (pretty JSON and/or transformations)
 
 **Plugin source and management:**
 
