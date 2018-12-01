@@ -55,4 +55,8 @@ Because of it, my requirements are as follow:
 
 # Hands on
 
-This is all for now. I will keep posting on my progress.
+This is what I have and see:
+
+![raw vim](/assets/vim/raw-vim.png)
+
+And is all for now. I will keep posting on my progress.
