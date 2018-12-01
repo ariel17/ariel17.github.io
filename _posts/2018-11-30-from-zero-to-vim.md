@@ -16,9 +16,9 @@ those IDEs, they do not fully simulates the behavior and that's quite a shame.
 
 # What do I need
 
-I have it a non-fresh but unconfigured installation. I use ViM when I need to
-edit text, so I will use it from programming to editing CSV or blog posts.
-Because of it, my requirements are as follow:
+I have a non-fresh but unconfigured installation. I use ViM when I need to edit
+text, so I will use it from programming to editing CSV or blog posts. Because
+of it, my requirements are as follow:
 
 **Programming languages:**
 
