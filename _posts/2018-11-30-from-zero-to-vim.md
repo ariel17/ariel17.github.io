@@ -88,10 +88,15 @@ set ruler  " cursor position
 ## Pathogen
 
 I just follow the instructions described in its
-[GitHub site](https://github.com/tpope/vim-pathogen) and you're done: this
+[GitHub site](https://github.com/tpope/vim-pathogen) and it's done: this
 creates the directories in `~/.vim/autoload` and `~/.vim/bundle`. All future
-plugins will be placed on `~/.vim/bundle`. This is required on ~/.vimrc to
-make it work:
+plugins will be placed on `~/.vim/bundle`.
+
+```bash
+$ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+$ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+
+This is required on ~/.vimrc to make it work:
 
 ```vim
 " Pathogen configuration
