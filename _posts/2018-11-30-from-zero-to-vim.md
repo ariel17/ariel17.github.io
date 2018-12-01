@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From zero to vim
+title: From zero to ViM
 ---
 
 When I say _from zero_ I mean _from none configuration_, so I will not write
