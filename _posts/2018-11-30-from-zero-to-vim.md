@@ -12,7 +12,7 @@ I have been using ViM for a few years (8 aprox). But I am currently learning to
 use some IDEs like [Intellij](https://www.jetbrains.com/idea/) and
 [Visual Studio Code](https://code.visualstudio.com/) to expand my toolbox...
 and always, I come back to ViM. Despite the simulator plugins available for
-those IDEs, they do not fully simulates the behavior and that's quite a shame.
+those IDEs, they do not fully simulate the behavior and that's quite a shame.
 
 # What do I need
 
