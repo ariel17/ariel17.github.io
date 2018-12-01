@@ -33,11 +33,11 @@ voluntaria, aunque el miedo en su rostro decía lo contrario. Comer era sencillo
 y placentero: elegía una extremidad y daba un bocado. A veces grande, a veces
 pequeño pero nunca parpadeaba y los miraba directo a los ojos. Los huesos eran
 difíciles de roer pero a él siempre le salían dientes nuevos. Algunos
-aguantaban mucho sin desmayarse pero otros, como éste, vomitaban cuando llegaba
-a la rodilla y detestaba que pasara eso. Mientras vomitaba y decía algún tipo
-de plegaria el Dios Rey estaba empeñado a separar el muslo del hueso y les
-gritaba a los esclavos que quitaran la última mierda que hizo porque ahí venía
-más y sus necesidades no esperaban a nadie.
+aguantaban mucho sin desmayarse aunque otros, como éste, vomitaban cuando
+llegaba a la rodilla y detestaba que pasara eso. Mientras vomitaba y decía 
+algún tipo de plegaria el Dios Rey estaba empeñado a separar el muslo del 
+hueso y les gritaba a los esclavos que quitaran la última mierda que hizo 
+porque ahí venía más y sus necesidades no esperaban a nadie.
 
 El templo estaba hecho con piedras y sangre, a la vieja usanza de los castillos
 de antaño. Entre roca y roca se apilaban las manos cercenadas de los que fueron
