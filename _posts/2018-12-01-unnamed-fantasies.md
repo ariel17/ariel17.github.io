@@ -1,6 +1,6 @@
 ---
 layout: post
-title: unnamed fantasies
+title: Unnamed fantasies
 date: 2018-12-01 01:19 -0300
 ---
 
