@@ -19,3 +19,5 @@ title: Lessons learned IV
 
 * **Expose everything I do in my tracking system:** Keep work visible for
   everyone.
+
+* **Test as you fly, fly as you test:** An interesting [NASA principle](https://stackoverflow.com/questions/623243/test-what-you-fly-fly-what-you-test-nasa-principle).
