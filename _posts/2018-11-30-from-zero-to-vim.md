@@ -85,7 +85,7 @@ set ruler  " cursor position
 ```
 ![visuals](/assets/vim/vim-visuals.png)
 
-## Solarized
+## Solarized
 
 ```bash
 $ cd ~/.vim/bundle
