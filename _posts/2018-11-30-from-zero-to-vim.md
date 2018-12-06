@@ -137,6 +137,7 @@ $ git clone https://github.com/bling/vim-airline
 set laststatus=2  
 set t_Co=256 
 set noshowmode
+let g:airline_powerline_fonts = 1
 ```
 
 ## Golang
