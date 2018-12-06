@@ -26,7 +26,7 @@ of it, my requirements are as follow:
 * [Cursor position (row/col)](#visuals)
 * [Highlight cursor line](#visuals)
 * [Solarized color scheme.](#solarized)
-* Nice status bar.
+* [Nice status bar.](#airline)
 
 **Navigation:**
 
@@ -87,22 +87,6 @@ set cursorline  " highlight current line
 ```
 ![visuals](/assets/vim/vim-visuals.png)
 
-## Solarized
-
-```bash
-$ cd ~/.vim/bundle
-$ git clone git://github.com/altercation/vim-colors-solarized.git
-```
-
-```vim
-syntax enable
-set background=dark
-let g:solarized_termcolors=256
-colorscheme solarized
-```
-
-![solarized](/assets/vim/solarized.png)
-
 ## Pathogen
 
 I just follow the instructions described in its
@@ -125,6 +109,35 @@ filetype plugin indent on
 ```
 
 Now I am ready to put some plugins in.
+
+## Solarized
+
+```bash
+$ cd ~/.vim/bundle
+$ git clone git://github.com/altercation/vim-colors-solarized.git
+```
+
+```vim
+syntax enable
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
+```
+
+![solarized](/assets/vim/solarized.png)
+
+## Airline
+
+```bash
+$ cd ~/.vim/bundle  
+$ git clone https://github.com/bling/vim-airline  
+```
+
+```vim
+set laststatus=2  
+set t_Co=256 
+set noshowmode
+```
 
 ## Golang
 
