@@ -24,7 +24,7 @@ of it, my requirements are as follow:
 
 * [Line numbers](#visuals)
 * [Cursor position (row/col)](#visuals)
-* Solarized color scheme.
+* [Solarized color scheme.](#solarized)
 * Nice status bar.
 
 **Navigation:**
@@ -84,6 +84,22 @@ set number  " show line numbers
 set ruler  " cursor position
 ```
 ![visuals](/assets/vim/vim-visuals.png)
+
+## Solarized
+
+```bash
+$ cd ~/.vim/bundle
+$ git clone git://github.com/altercation/vim-colors-solarized.git
+```
+
+```vim
+syntax enable
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
+```
+
+![solarized](/assets/vim/solarized.png)
 
 ## Pathogen
 
