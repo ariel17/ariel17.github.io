@@ -21,3 +21,5 @@ title: Lessons learned IV
   everyone.
 
 * **Test as you fly, fly as you test:** An interesting [NASA principle](https://stackoverflow.com/questions/623243/test-what-you-fly-fly-what-you-test-nasa-principle).
+
+* **If I don't know, I just have to say it:** 

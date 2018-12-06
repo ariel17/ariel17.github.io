@@ -25,6 +25,7 @@ of it, my requirements are as follow:
 * [Line numbers](#visuals)
 * [Cursor position (row/col)](#visuals)
 * [Highlight cursor line](#visuals)
+* [Line mark at 80 characters](#visuals)
 * [Solarized color scheme.](#solarized)
 * [Nice status bar.](#airline)
 
@@ -84,6 +85,7 @@ I create an empty `~/.vimrc` file to put the initial customizations.
 set number  " show line numbers
 set ruler  " cursor position
 set cursorline  " highlight current line
+set colorcolumn=80  " 80 chars mark
 ```
 ![visuals](/assets/vim/vim-visuals.png)
 
