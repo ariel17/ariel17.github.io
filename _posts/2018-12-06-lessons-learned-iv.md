@@ -22,4 +22,7 @@ title: Lessons learned IV
 
 * **Test as you fly, fly as you test:** An interesting [NASA principle](https://stackoverflow.com/questions/623243/test-what-you-fly-fly-what-you-test-nasa-principle).
 
-* **If I don't know, I just have to say it:** 
+* **If I don't know, I just have to say it:** If I say that it is completed and
+  I'm not sure about it, I am risking my reputation and my work quality, as I
+  am showing inconsistency. Better to be stuck to reality and measure my word
+  in calm, showing progress but not exposing myself.
