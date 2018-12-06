@@ -94,7 +94,8 @@ plugins will be placed on `~/.vim/bundle`.
 
 ```bash
 $ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
-$ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+	curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+```
 
 This is required on ~/.vimrc to make it work:
 
