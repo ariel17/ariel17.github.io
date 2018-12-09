@@ -6,6 +6,11 @@ status: Inception
 
 ![inception](/assets/projects/efimeral.jpg)
 
+# Where is it
+
+* [GitHub](https://github.com/ariel17/efimeral)
+* [API Blueprint](http://ariel17.com.ar/efimeral/)
+
 # Descripción
 
 El sistema es un servicio web. No tendrá API pública; al menos no
