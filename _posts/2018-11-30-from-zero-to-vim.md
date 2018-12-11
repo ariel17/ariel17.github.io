@@ -58,7 +58,7 @@ And respectives language lynter.
 **Documentation:**
 
 * RestructuredText
-* Markdown
+* [Markdown](#markdown)
 
 **Other file support:**
 
@@ -159,6 +159,17 @@ When I execute the command `vim a.go`, I see the following:
 It is because the vim-go plugin is placing some code snippet into our empty 
 file, proof of correct installation. Now I can run some commands like
 `:GoBuild`, `:GoInstall` or `:GoRun`. Have fun.
+
+# Markdown
+
+I was using the default support for Markdown files, but I will give a try to
+the [Gabriele Lana's plugin](https://github.com/gabrielelana/vim-markdown); it
+seems very simple yet promising on correct rendering when editing files.
+
+```bash
+$ cd ~/.vim/bundle
+$ git clone https://github.com/gabrielelana/vim-markdown.git
+```
 
 # More to come
 
