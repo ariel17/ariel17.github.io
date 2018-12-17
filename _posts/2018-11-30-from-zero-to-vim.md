@@ -29,6 +29,7 @@ of it, my requirements are as follow:
 * [Solarized color scheme.](#solarized)
 * [Nice status bar.](#airline)
 * [Nice monospaced font](#font)
+* [Replace tabs by spaces](#tabs)
 
 **Navigation:**
 
@@ -151,6 +152,12 @@ I use [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 
 ```bash
 $ echo "set guifont=Anonymous\ Pro:h20" > ~/.gvimrc
+```
+
+## Tabs
+
+```vimrc
+set tabstop=4
 ```
 
 ## Golang
