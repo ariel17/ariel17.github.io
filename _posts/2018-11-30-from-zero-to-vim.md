@@ -28,6 +28,7 @@ of it, my requirements are as follow:
 * [Line mark at 80 characters](#visuals)
 * [Solarized color scheme.](#solarized)
 * [Nice status bar.](#airline)
+* [Nice monospaced font](#font)
 
 **Navigation:**
 
@@ -140,6 +141,16 @@ set laststatus=2
 set t_Co=256 
 set noshowmode
 let g:airline_powerline_fonts = 1
+```
+
+## Font
+
+I use [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+(by now). This only applies to GViM, to this configuration must be placed on
+`~/.gvimrc`:
+
+```bash
+$ echo "set guifont=Anonymous\ Pro:h20" > ~/.gvimrc
 ```
 
 ## Golang
