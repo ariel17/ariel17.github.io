@@ -146,12 +146,12 @@ let g:airline_powerline_fonts = 1
 
 ## Font
 
-I use [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-(by now). This only applies to GViM, to this configuration must be placed on
+I use [Source Code Pro](https://www.fontsquirrel.com/fonts/source-code-pro) (by
+now). This only applies to GViM, to this configuration must be placed on
 `~/.gvimrc`:
 
 ```bash
-$ echo "set guifont=Anonymous\ Pro:h20" > ~/.gvimrc
+$ echo "set guifont=Source\ Code\ Pro:h15" > ~/.gvimrc
 ```
 
 ## Tabs
