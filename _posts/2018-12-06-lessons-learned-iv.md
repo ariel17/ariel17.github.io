@@ -27,9 +27,9 @@ title: Lessons learned IV
   as I am showing inconsistency. Better to be stuck to reality and measure my
   word in calm, showing progress but not exposing myself.
 
-**If I have the truth, then I must try to proof me false** [I want to be right
-  more often](https://ozanvarol.com/want-to-be-right-more-often-try-this/), so
-  if I am right, proof me wrong will show more light on the subject.
+* **If I have the truth, then I must try to proof me false** [I want to be
+  right more often](https://ozanvarol.com/want-to-be-right-more-often-try-this/),
+  so if I am right, proof me wrong will show more light on the subject.
 
 * **Taking ownership? First, show me the project's mission:** When working with
   multiple projects, I must have a clear field vision about what is more
