@@ -29,7 +29,11 @@ of it, my requirements are as follow:
 * [Solarized color scheme.](#solarized)
 * [Nice status bar.](#airline)
 * [Nice monospaced font](#font)
+
+**Customized input**
+
 * [Replace tabs by spaces](#tabs)
+* [Enable delete key](#delete)
 
 **Navigation:**
 
@@ -158,6 +162,12 @@ $ echo "set guifont=Source\ Code\ Pro:h15" > ~/.gvimrc
 
 ```vimrc
 set tabstop=4
+```
+
+## Delete
+
+```vimrc
+set backspace=indent,eol,start
 ```
 
 ## Golang
