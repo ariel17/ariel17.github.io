@@ -29,6 +29,7 @@ of it, my requirements are as follow:
 * [Solarized color scheme.](#solarized)
 * [Nice status bar.](#airline)
 * [Nice monospaced font](#font)
+* [Tabs to spaces](#tabs)
 
 **Customized input**
 
