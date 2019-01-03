@@ -52,7 +52,7 @@ of it, my requirements are as follow:
 
 * Java
 
-And respectives language lynter.
+[And respectives language lynters](#syntastic).
 
 **Web:**
 
@@ -65,6 +65,7 @@ And respectives language lynter.
 
 * RestructuredText
 * [Markdown](#markdown)
+* [API Blueprint](#api-blueprint)
 
 **Other file support:**
 
@@ -197,6 +198,29 @@ seems very simple yet promising on correct rendering when editing files.
 ```bash
 $ cd ~/.vim/bundle
 $ git clone https://github.com/gabrielelana/vim-markdown.git
+```
+
+# API Blueprint
+
+```bash
+$ git clone https://github.com/kylef/apiblueprint.vim.git ~/.vim/bundle/apiblueprint.vim
+```
+
+# Syntastic
+
+```bash
+$ cd ~/.vim/bundle && git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
+```
+
+```vimrc
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
 ```
 
 # More to come
