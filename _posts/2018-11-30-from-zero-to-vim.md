@@ -164,6 +164,7 @@ $ echo "set guifont=Source\ Code\ Pro:h15" > ~/.gvimrc
 
 ```vimrc
 set tabstop=4
+set expandtab
 ```
 
 ## Delete
