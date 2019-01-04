@@ -202,13 +202,13 @@ $ cd ~/.vim/bundle
 $ git clone https://github.com/gabrielelana/vim-markdown.git
 ```
 
-# API Blueprint
+# API Blueprint
 
 ```bash
 $ git clone https://github.com/kylef/apiblueprint.vim.git ~/.vim/bundle/apiblueprint.vim
 ```
 
-# Syntastic
+# Syntastic
 
 ```bash
 $ cd ~/.vim/bundle && git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
