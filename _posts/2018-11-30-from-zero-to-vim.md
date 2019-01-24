@@ -187,6 +187,13 @@ When I execute the command `vim a.go`, I see the following:
 
 ![vim-go](/assets/vim/vim-go.png)
 
+I prefer `goimports` to resolve missing imports adjust code layout. Adding this
+to `.vimrc` will do:
+
+```vimrc
+let g:go_fmt_command = "goimports"
+```
+
 It is because the vim-go plugin is placing some code snippet into our empty 
 file, proof of correct installation. Now I can run some commands like
 `:GoBuild`, `:GoInstall` or `:GoRun`. Have fun.
