@@ -187,11 +187,16 @@ When I execute the command `vim a.go`, I see the following:
 
 ![vim-go](/assets/vim/vim-go.png)
 
-I prefer `goimports` to resolve missing imports adjust code layout. Adding this
-to `.vimrc` will do:
+I prefer `goimports` to resolve missing imports and adjust code layout, also I
+want to do it every time I save the file. Adding this to `.vimrc` will do:
 
 ```vimrc
 let g:go_fmt_command = "goimports"
+augroup auto_go
+	autocmd!
+	autocmd BufWritePost *.go :GoBuild
+	autocmd BufWritePost *_test.go :GoTest
+augroup end
 ```
 
 It is because the vim-go plugin is placing some code snippet into our empty 
