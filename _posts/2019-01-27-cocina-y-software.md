@@ -6,10 +6,10 @@ title: Cocina y software
 Mi esposa Telma y su mamá llevan adelante un emprendimiento de catering llamado
 [Cocina y Amor](https://www.facebook.com/cocinayamorcatering). Tuvieron durante
 el 2018 el mejor de los 3 años que ya llevan trabajando y haciéndose conocer:
-tienen clientes y contactos nuevos todos los meses que previamente han visto
-las fotos de servicios pasados o por recomendaciones de boca en boca. Pero más
-destacable es que una gran parte de los clientes vuelven por haber tenido una
-experiencia con el servicio que superó sus expectativas.
+clientes y contactos nuevos todos los meses que previamente han visto las fotos
+de servicios pasados o por recomendaciones de boca en boca. Pero más destacable
+es que una gran parte de los clientes vuelven por haber tenido una experiencia
+con el servicio que superó sus expectativas.
 
 Siempre que veo satisfecha a mi esposa por un trabajo exitoso me doy cuenta de
 que los principios que aplican en el proceso de cocina son muy similares a los
@@ -21,8 +21,6 @@ Cuando Telma se planteó qué empresa comenzar, la primera condición fue que se
 un trabajo de su agrado, no la cantidad de dinero que éste dejaría. No había
 posibilidad de que se dedicara a algo que ella no pudiese disfrutar. Y a ella
 le **encanta** cocinar, ama hacerlo y se siente en su elemento.
-
-## Aplicación en software
 
 Determinar que uno debe trabajar con lo que a uno le apasina es aplicable a
 cualquier trabajo, no sólo a la cocina o el software. Un trabajo que se
@@ -49,8 +47,6 @@ trabajo. El nuevo modelo: contacto con clientes, selección de comidas de una
 lista y establecer una fecha; permite tomarse el tiempo de planificación del
 trabajo y aceptar más de uno.
 
-## Aplicación en software
-
 # Aprender como ventaja táctica
 
 El cambio de modelo de negocio trajo más desafíos: otras empresas de catering
@@ -63,13 +59,3 @@ La forma más eficiente que encontró fue capacitarse. Telma ya terminó un curs
 de "Catering y Organización Eventos" y ahora está en el 2º año de la carrera de
 Chef. Fue la mejor inversión que pudo hacerle a su empresa porque la calidad de
 lo que cocina creció exponencialmente y también extendió sus horizontes.
-
-## Aplicación en software
-
-# Calidad en el proceso
-
-## Aplicación en software
-
-# Óptima comunicación
-
-## Aplicación en software
