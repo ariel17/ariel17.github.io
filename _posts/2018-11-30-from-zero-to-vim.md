@@ -38,7 +38,7 @@ of it, my requirements are as follow:
 
 **Navigation:**
 
-- File tree navigation.
+- [File tree navigation.](#file-tree-navigation)
 - Search in files.
 
 **Programming languages:**
@@ -197,6 +197,22 @@ set expandtab
 
 ```vimrc
 set backspace=indent,eol,start
+```
+
+## File tree navigation
+
+[NERDTree](https://github.com/scrooloose/nerdtree) is de-facto plugin for this.
+
+```bash
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+```
+
+Chaning open navigation window to `Ctrl+n` and auto-close vim when NERDTree is
+the only window left:
+
+```vimrc
+map <C-n> :NERDTreeToggle<CR>
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 ```
 
 ## Golang
