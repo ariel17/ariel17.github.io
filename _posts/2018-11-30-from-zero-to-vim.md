@@ -39,18 +39,14 @@ of it, my requirements are as follow:
 **Navigation:**
 
 - [File tree navigation.](#file-tree-navigation)
-- [Search in files.](https://github.com/junegunn/fzf.vim)
+- [Search in files.](#search-in-files)
 
 **Programming languages:**
 
 * [Golang](#golang)
 * Python
-* Javascript
-
-  - ES5/ES6
-  - jQuery
-  - reactJS
-
+* [Javascript](#javascript)
+* [React](#react)
 * Java
 
 [And respectives language lynters](#syntastic).
@@ -140,7 +136,7 @@ colorscheme solarized
 
 ```bash
 $ cd ~/.vim/bundle  
-$ git clone https://github.com/bling/vim-airline  
+$ git clone git@github.com:bling/vim-airline  
 ```
 
 ```vim
@@ -229,7 +225,7 @@ let g:UltiSnipsSnippetDirectories      = ["UltiSnips", "vim-snippets"]
 [NERDTree](https://github.com/scrooloose/nerdtree) is de-facto plugin for this.
 
 ```bash
-git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+git clone git@github.com:scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 ```
 
 Chaning open navigation window to `Ctrl+n` and auto-close vim when NERDTree is
@@ -252,7 +248,7 @@ Golang. Since I have installed Pathogen for plugin management, I just need to
 clone the project on its bundle directory:
 
 ```bash
-$ git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
+$ git clone git@github.com:fatih/vim-go.git ~/.vim/bundle/vim-go
 ```
 
 When I execute the command `vim a.go`, I see the following:
@@ -275,6 +271,22 @@ It is because the vim-go plugin is placing some code snippet into our empty
 file, proof of correct installation. Now I can run some commands like
 `:GoBuild`, `:GoInstall` or `:GoRun`. Have fun.
 
+## Javascript
+
+```bash
+$ git clone git@github.com:pangloss/vim-javascript.git ~/.vim/bundle/vim-javascript
+```
+
+```vimrc
+let g:javascript_plugin_jsdoc = 1
+```
+
+## React
+
+```bash
+$ git clone git@github.com:mxw/vim-jsx.git ~/.vim/bundle/vim-jsx
+```
+
 # Markdown
 
 I was using the default support for Markdown files, but I will give a try to
@@ -283,19 +295,19 @@ seems very simple yet promising on correct rendering when editing files.
 
 ```bash
 $ cd ~/.vim/bundle
-$ git clone https://github.com/gabrielelana/vim-markdown.git
+$ git clone git@github.com:gabrielelana/vim-markdown.git
 ```
 
 # API Blueprint
 
 ```bash
-$ git clone https://github.com/kylef/apiblueprint.vim.git ~/.vim/bundle/apiblueprint.vim
+$ git clone git@github.com:kylef/apiblueprint.vim.git ~/.vim/bundle/apiblueprint.vim
 ```
 
 # Syntastic
 
 ```bash
-$ cd ~/.vim/bundle && git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
+$ cd ~/.vim/bundle && git clone --depth=1 git@github.com:vim-syntastic/syntastic.git
 ```
 
 ```vimrc
