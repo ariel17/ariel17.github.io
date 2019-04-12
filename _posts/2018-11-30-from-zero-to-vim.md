@@ -29,12 +29,12 @@ of it, my requirements are as follow:
 * [Solarized color scheme.](#solarized)
 * [Nice status bar.](#airline)
 * [Nice monospaced font](#font)
-* [Tabs to spaces](#tabs)
 
 **Customized input**
 
 * [Replace tabs by spaces](#tabs)
 * [Enable delete key](#delete)
+* [Snippets](#snippets)
 
 **Navigation:**
 
@@ -197,6 +197,31 @@ set expandtab
 
 ```vimrc
 set backspace=indent,eol,start
+```
+
+## Snippets
+
+I will use [UltiSnips](https://github.com/SirVer/ultisnips) and [supertab](https://github.com/ervandew/supertab)
+to make them work well along [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+(YCM will come in the future!):
+
+```bash
+$ git clone git@github.com:SirVer/ultisnips.git ~/.vim/bundle/ultisnips
+$ git clone git@github.com:ervandew/supertab.git ~/.vim/bundle/supertab
+$ git clone git@github.com:honza/vim-snippets.git ~/.vim/bundle/vim-snippets
+$ git clone git@github.com:ariel17/vim-snippets.git ~/.vim/vim-snippets  # My custom snippets!
+
+```
+
+```vimrc
+let g:SuperTabDefaultCompletionType    = '<C-n>'
+let g:SuperTabCrMapping                = 0
+let g:UltiSnipsExpandTrigger           = '<tab>'
+let g:UltiSnipsJumpForwardTrigger      = '<tab>'
+let g:UltiSnipsJumpBackwardTrigger     = '<s-tab>'
+let g:ycm_key_list_select_completion   = ['<C-j>', '<C-n>', '<Down>']
+let g:ycm_key_list_previous_completion = ['<C-k>', '<C-p>', '<Up>']
+let g:UltiSnipsSnippetDirectories      = ["UltiSnips", "vim-snippets"]
 ```
 
 ## File tree navigation
