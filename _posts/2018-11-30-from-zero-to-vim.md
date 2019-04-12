@@ -39,7 +39,7 @@ of it, my requirements are as follow:
 **Navigation:**
 
 - [File tree navigation.](#file-tree-navigation)
-- Search in files.
+- [Search in files.](https://github.com/junegunn/fzf.vim)
 
 **Programming languages:**
 
@@ -239,6 +239,11 @@ the only window left:
 map <C-n> :NERDTreeToggle<CR>
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 ```
+
+## Search in files
+
+The prittiest solution seems to be [FZF](https://github.com/junegunn/fzf.vim),
+but I'm not there yet.
 
 ## Golang
 
