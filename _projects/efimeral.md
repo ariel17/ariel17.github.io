@@ -9,7 +9,8 @@ status: Inception
 # Where is it
 
 * [GitHub](https://github.com/ariel17/efimeral)
-* [API Blueprint](http://ariel17.com.ar/efimeral/)
+* [Web site](http://ariel17.com.ar/efimeral/)
+* [API blueprint](http://ariel17.com.ar/efimeral/api.html)
 
 # Descripción
 
