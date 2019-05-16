@@ -48,8 +48,8 @@ of it, my requirements are as follow:
 * [Javascript](#javascript)
 * [React](#react)
 * Java
-
-[And respectives language lynters](#syntastic).
+* [Language lynters](#syntastic).
+* [Autocompletion](#youcompleteme).
 
 **Web:**
 
@@ -58,9 +58,12 @@ of it, my requirements are as follow:
 * SASS
 * CSS3
 
+**Version control**
+
+* [Git](#git)
+
 **Documentation:**
 
-* RestructuredText
 * [Markdown](#markdown)
 * [API Blueprint](#api-blueprint)
 
@@ -90,6 +93,8 @@ set number  " show line numbers
 set ruler  " cursor position
 set cursorline  " highlight current line
 set colorcolumn=80  " 80 chars mark
+au BufRead,BufNewFile *.md setlocal textwidth=80
+au BufRead,BufNewFile *.apib setlocal textwidth=80
 ```
 ![visuals](/assets/vim/vim-visuals.png)
 
@@ -185,8 +190,13 @@ $ echo "set guifont=Source\ Code\ Pro:h15" > ~/.gvimrc
 ## Tabs
 
 ```vimrc
-set tabstop=4
 set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+
+autocmd Filetype html setlocal ts=2 sw=2 expandtab
+autocmd Filetype css setlocal ts=2 sw=2 expandtab
 ```
 
 ## Delete
@@ -259,17 +269,30 @@ I prefer `goimports` to resolve missing imports and adjust code layout, also I
 want to do it every time I save the file. Adding this to `.vimrc` will do:
 
 ```vimrc
-let g:go_fmt_command = "goimports"
 augroup auto_go
 	autocmd!
 	autocmd BufWritePost *.go :GoBuild
 	autocmd BufWritePost *_test.go :GoTest
 augroup end
+set autowrite
+
+let g:go_fmt_command = "goimports"
+let g:go_list_type = "quickfix"
+let g:go_textobj_include_function_doc = 1
+let g:go_highlight_types = 1
+let g:go_auto_type_info = 1
+let g:go_def_mapping_enabled = 1
+let g:go_metalinter_autosave = 1
+let g:go_metalinter_enabled = ['vet', 'errcheck', 'golint']
+let g:syntastic_go_checkers = ['go', 'vet', 'golint', 'errcheck']
+
+au FileType go nmap <Leader>s <Plug>(go-def-split)
+au FileType go nmap <Leader>v <Plug>(go-def-vertical)
+au FileType go nmap <Leader>t <Plug>(go-def-tab)
 ```
 
-It is because the vim-go plugin is placing some code snippet into our empty 
-file, proof of correct installation. Now I can run some commands like
-`:GoBuild`, `:GoInstall` or `:GoRun`. Have fun.
+As last step, I must run `:GoInstallBinaries` to assert existence on commands.
+Now I can run some commands like `:GoBuild`, `:GoInstall` or `:GoRun`. Have fun.
 
 ## Javascript
 
@@ -286,6 +309,18 @@ let g:javascript_plugin_jsdoc = 1
 ```bash
 $ git clone git@github.com:mxw/vim-jsx.git ~/.vim/bundle/vim-jsx
 ```
+
+# Git
+
+[vim-fugitive] is the one, without doubts. It works perfect without any
+customization:
+
+```bash
+cd ~/.vim/bundle
+git clone https://github.com/tpope/vim-fugitive.git
+```
+
+And done.
 
 # Markdown
 
@@ -317,8 +352,26 @@ set statusline+=%*
 
 let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_auto_loc_list = 1
+let g:syntastic_loc_list_height=3
 let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
+let g:syntastic_check_on_wq = 0"
+```
+
+# YouCompleteMe
+
+```bash
+brew install cmake
+cd ~/.vim/bundle
+git clone git@github.com:Valloric/YouCompleteMe.git
+cd YouCompleteMe
+git submodule update --init --recursive
+python install.py --go-completer
+cd third_party/ycmd/third_party/
+rm -rf gocode
+git clone git@github.com:mdempsky/gocode.git
+cd gocode
+go mod init
+go build .
 ```
 
 # More to come
