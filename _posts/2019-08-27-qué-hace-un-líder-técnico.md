@@ -87,4 +87,4 @@ Sebastián Luberriaga
 * [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://dev.to/lpasqualis/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader-9po)
 * [Becoming a Technical Leader](https://www.infoq.com/minibooks/becoming-technical-leader/)
 
-[1](http://www.gitshah.com/2011/01/ivory-tower-architect.html)
+[1]: http://www.gitshah.com/2011/01/ivory-tower-architect.html
