@@ -4,10 +4,17 @@ title: ¿Qué hace un líder técnico?
 date: 2019-08-27 09:03 -0300
 ---
 
+# Citas
+
 > Before you are a leader, success is all about growing yourself. When you
 > become a leader, success is all about growing others.
 
 Jack Welch
+
+> Lo primero es la persona; buscamos generar una unidad resiliente más parecida
+> a una familia unida que a una maquina perfecta.
+
+Sebastián Luberriaga
 
 # Pro tips
 
@@ -48,7 +55,7 @@ Jack Welch
 # Anti-patrones
 
 * Tomar todas las decisiones técnicas implica volverse un cuello de botella.
-* The Ivory Tower Architect: no involucrarse con el código base.
+* [The Ivory Tower Architect][1]: no involucrarse con el código base.
 * No cultivar la cultura dentro del equipo.
 * No escuchar las propuestas del equipo.
 * Perder la confianza del equipo: no estar disponible para ellos y estar
@@ -75,7 +82,9 @@ Jack Welch
 ## Fuentes
 
 * [What’s the role of a tech lead?](https://hackernoon.com/whats-the-role-of-a-tech-lead-7725b47104b7)
-* [The Ivory Tower Architect](http://www.gitshah.com/2011/01/ivory-tower-architect.html)
+* [The Ivory Tower Architect][1]
 * [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead)
 * [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://dev.to/lpasqualis/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader-9po)
 * [Becoming a Technical Leader](https://www.infoq.com/minibooks/becoming-technical-leader/)
+
+[1](http://www.gitshah.com/2011/01/ivory-tower-architect.html)
