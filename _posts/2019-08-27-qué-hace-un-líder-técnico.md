@@ -12,7 +12,7 @@ date: 2019-08-27 09:03 -0300
 Jack Welch
 
 > Lo primero es la persona; buscamos generar una unidad resiliente más parecida
-> a una familia unida que a una maquina perfecta.
+> a una familia unida que a una máquina perfecta.
 
 Sebastián Luberriaga
 
