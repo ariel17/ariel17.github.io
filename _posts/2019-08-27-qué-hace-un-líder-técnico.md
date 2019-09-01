@@ -36,6 +36,8 @@ Sebastián Luberriaga
   + Positivo: subrayar las cosas buenas que destacan.
   + Constructivo: tiene que estar acompañado de un accionable, para saber cómo
     corregirlo; mejor si es discutido entre los dos.
+  + Tomar nota de las observaciones (malas y buenas, para mí y para los otros).
+  + Pedir recomendaciones/entrenamiento, ayuda en situaciones difíciles.
 
 * Visualizar la **realidad**: es poco probable que sólo haya una versión. Nunca
   se va a tener toda la información que uno quisiera. Sin esta definición,
