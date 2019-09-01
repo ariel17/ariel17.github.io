@@ -53,6 +53,7 @@ Sebastián Luberriaga
   contestar tanto las preguntas internas como externas.
 * Aprender y mejorar es crucial para la salud de las personas y los productos
   (generar slack y valorizar trabajo descubierto vs planificado).
+* Mentoring del equipo.
 
 # Anti-patrones
 
@@ -88,5 +89,6 @@ Sebastián Luberriaga
 * [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead)
 * [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://dev.to/lpasqualis/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader-9po)
 * [Becoming a Technical Leader](https://www.infoq.com/minibooks/becoming-technical-leader/)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path), de Camille Fournier.
 
 [1]: http://www.gitshah.com/2011/01/ivory-tower-architect.html
