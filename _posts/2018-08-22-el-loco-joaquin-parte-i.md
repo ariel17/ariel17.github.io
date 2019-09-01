@@ -8,14 +8,14 @@ hasta que llegase al puerto. Era bueno haciendo ese tipo de cálculos luego de
 tantos años. Encendió un cigarrillo nuevo, se cerró el sobretodo y sentado
 observaba cómo el Sol competía con la nave para llegar al cenit.
 
---- Ahora sí, contame cómo te estuvo yendo --dijo Juan Carlos cuando al fin se
-sentaron en la mesa destartalada del bar acostumbrado--. ¿Cómo vas con los
-mareos?
+--- *Ahora sí, contame cómo te estuvo yendo* --dijo Juan Carlos cuando al fin
+se sentaron en la mesa destartalada del bar acostumbrado--. *¿Cómo vas con los
+mareos?*
 
---- Bastante igual... la verdad es que ni novedades tengo. Me estoy
-acostumbrando, la verdad. ¿Y vos? Contame del mar y la familia.
+--- *Bastante igual... la verdad es que ni novedades tengo. Me estoy
+acostumbrando de a poco. ¿Y vos? Contame del mar y la familia.*
 
---- Vamos a pedir un vinito antes.
+--- *Vamos a pedir un vinito antes.*
 
 Y con un grito que le pegó a la mesera, Juan Carlos pidió el vino prometido y
 luego, la palabra. Le contó al viejo Joaquín las novedades del mundo de los
@@ -28,11 +28,11 @@ Hablaron hasta que cayó la noche y los demás comenzales se fueron del lugar. E
 silencio se hizo duro entre los amigos y fue entonces cuando se miraron a los
 ojos.
 
---- Vení conmigo Joaquín. A Buenos Aires. ¿Qué hay para vos acá? El barco es mi
-dominio y cómo consigo mis marineros, mi problema.
+--- *Vení conmigo Joaquín. A Buenos Aires. ¿Qué hay para vos acá? El barco es
+mi dominio y cómo consigo mis marineros, mi problema.*
 
---- No puedo irme ya. No podría... si el mar estuvo abierto alguna vez para mí,
-ahora está vetado.
+--- *No puedo irme ya. No podría... si el mar estuvo abierto alguna vez para
+mí, ahora está vetado.*
 
 El viejo Joaquín veía al barco alejarse esta vez pero en la dirección contraria
 con la tranquilidad propia de las naves grandes y desafiantes, las velas

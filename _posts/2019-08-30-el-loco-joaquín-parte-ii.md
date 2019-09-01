@@ -8,6 +8,8 @@ date: 2019-08-30 21:45 -0300
 
 Ir al post [El loco Joaquín - Parte I](http://ariel17.com.ar/2018/08/22/el-loco-joaquin-parte-i.html).
 
+---
+
 Salió presuroso de aprovechar la mañana, aunque el concepto de la mañana no era
 el mismo que el de los demás; fue el último en comprar los víveres en el
 almacén, porque ya estaban cerrando los negocios. Cuando volvía, marcando con
@@ -27,7 +29,7 @@ entre esas ruinas.
 
 Iba a construir su hogar hoy mismo.
 
-*Si vas a ahorrar, ahorrá en materiales* le decía su padre y así lo hizo
+*"Si vas a ahorrar, ahorrá en materiales"* le decía su padre y así lo hizo
 durante 15 años, esperando que emergiera del suelo la ansiada familia y la
 necesidad para empezar. Pero la familia nunca apareció y lo que más se le
 pareció a una, deambulaba con dos mocositos muy ruidosos y un sombrero de ala
@@ -39,9 +41,9 @@ que colgaba de su mano izquierda y sintió culpa de tener que almorzar. *Si un
 viejo necesita dormir poco, entonces también necesita comer menos* se justificó
 y dejó tiró la bolsa sobre la mesa. Miró hacia el público que lo rodeaba:
 bolsas de cemento, piedras, arena, más piedras y ladrillos... todos inanimados
-pero ansiosos y con ojos que le devolvían la mirada. *Al fin llegó el momento*
-le decían y lo escuchaba y asentía en silencio. Si se dió cuenta que estaba
-perdiendo los estribos, no pareció preocuparle.
+pero ansiosos y con ojos que le devolvían la mirada. *"Al fin llegó el
+momento"* le decían y lo escuchaba y asentía en silencio. Si se dió cuenta que
+estaba perdiendo los estribos, no pareció preocuparle.
 
 Empezó con los cimientos, luego levantó las columnas y los vestigios de un
 techo aparecieron luego de 2 semanas. Era por fin domingo por la mañana y fue
