@@ -106,6 +106,7 @@ Bethanye Blount
 
 * Elaborar un [plan 30/60/90][4].
 * Comunicar mi estilo y expectativas.
+* Dedicar el 20% del tiempo en cada iteración a solventar deuda técnica.
 
 # Anti-patrones
 
