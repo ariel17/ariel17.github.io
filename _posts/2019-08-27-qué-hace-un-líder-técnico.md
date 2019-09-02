@@ -4,6 +4,16 @@ title: ¿Qué hace un líder técnico?
 date: 2019-08-27 09:03 -0300
 ---
 
+# Índice
+
+* [Citas](#citas)
+* [Pro-tips](#pro-tips)
+* [Anti-patrones](#anti-patrones)
+* [Eurísticas](#euristicas)
+
+----
+
+
 # Citas
 
 > Before you are a leader, success is all about growing yourself. When you
@@ -45,7 +55,12 @@ Caitie McCaffrey
 > responsibility, you’re still expected to be involved as much as is necessary
 > to help the project succeed.
 
-[The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change][3], de Camille Fournier.
+[The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change][3],
+de Camille Fournier.
+
+> The work of supporting people was far more important to management success.
+
+Bethanye Blount
 
 # Pro tips
 
@@ -129,7 +144,9 @@ Caitie McCaffrey
   expectativas ayuda a ejercitar que todas las partes están del mismo lado
   mirando el mismo objetivo. Bajarlas a escrito en lo posible.
 
-## Fuentes
+----
+
+# Fuentes
 
 * [What’s the role of a tech lead?](https://hackernoon.com/whats-the-role-of-a-tech-lead-7725b47104b7)
 * [The Ivory Tower Architect][1]
