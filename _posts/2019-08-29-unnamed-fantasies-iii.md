@@ -43,4 +43,8 @@ los ojos de mi padre. La misma naturaleza, un vacío que los va consumiendo para
 que busquen algo con qué llenarla, aunque ésto recién empezaba. Éramos jóvenes
 y sin embargo nuestro destino se selló cuando nos sostuvimos la mirada. Le tomé
 de la mano, lo separé de la pared que lo mantenía apresado y bailamos. Creo que
-fuimos felices aún sin conocernos, al menos esa noche. 
+fuimos felices sin conocernos esa noche. 
+
+Crecimos a los tumbos y de golpe. Yo aprendí a moverme entre la gente; él dejó
+caer todas las pieles que lo envolvían y de repente estaba bajo el Sol del
+verano, envejeciendo, como todos los demás.
