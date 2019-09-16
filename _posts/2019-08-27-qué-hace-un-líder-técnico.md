@@ -4,6 +4,14 @@ title: ¿Qué hace un líder técnico?
 date: 2019-08-27 09:03 -0300
 ---
 
+He estado trabajando en MercadoLibre durante 2 años y algunos meses como Senior
+Software Developer y en el último timepo he estado estudiando hacia dónde
+quiero armar mi carrera dentro de la empresa. Resolví que el camino más natural
+que encontré es el de formarme hacia Líder Técnico. Pero, ¿qué es lo que hace
+un líder técnico? ¿Cuáles son sus responsabilidades? A continuación hago una
+recopilación las respuestas que, en mi opinión, expresan las respuestas a esas
+preguntas.
+
 # Índice
 
 * [Citas](#citas)
@@ -54,6 +62,28 @@ Caitie McCaffrey
 > ... delegation is not the same thing as abdication. When you’re delegating
 > responsibility, you’re still expected to be involved as much as is necessary
 > to help the project succeed.
+
+> *Do remember to be kind.* It’s natural and perfectly human to want to be
+> liked by other people. Many of us believe that the way to be liked is to be
+> seen as nice — that niceness is itself the goal. Your goal as a manager,
+> however, should not be to be nice, it should be to be kind. “Nice” is the
+> language of polite society, where you’re trying to get along with strangers
+> or acquaintances. Nice is saying “please” and “thank you” and holding doors
+> for people struggling with bags or strollers. Nice is saying “I’m fine” when
+> asked how you are, instead of “I’m in a really crappy mood and I wish you
+> would leave me alone.” Nice is a good thing in casual conversation. But as a
+> manager, you will have relationships that go deeper, and it’s more important
+> to be kind. It’s kind to tell someone who isn’t ready for promotion that she
+> isn’t ready, and back that up with the work she needs to do to get there.
+> It’s unkind to lead that person on, saying “Maybe you could get promoted,”
+> and then watch her fail. It’s kind to tell someone that his behavior in
+> meetings is disrupting the group. It’s awkward, and uncomfortable, but it’s
+> also part of your job as his manager to have these difficult conversations.
+
+> You have 10 productive engineering weeks per engineer per quarter.
+
+> Use the doubling rule for quick estimates, but push for planning time to
+> estimate longer tasks
 
 [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change][3],
 de Camille Fournier.
