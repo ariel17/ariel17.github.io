@@ -36,15 +36,16 @@ tomar lo que quedaba de coca, que aún sigue húmeda... oh Dios, siento que me
 quema... cierro los ojos y muchas veces, las imágenes que se aparecen, son más
 recuerdos que alucinaciones.
 
-Cuando lo vi por primera vez, tenía trece años y él dieciséis. Estaba solo en
-la fiesta de Vanesa y me hizo recordar a mi padre por su forma de mirarme...
-esa mezcla de odio y culpa. Sentí el mismo vacío adentro de su alma como el de
-los ojos de mi padre. La misma naturaleza, un vacío que los va consumiendo para
-que busquen algo con qué llenarla, aunque ésto recién empezaba. Éramos jóvenes
-y sin embargo nuestro destino se selló cuando nos sostuvimos la mirada. Le tomé
-de la mano, lo separé de la pared que lo mantenía apresado y bailamos. Creo que
-fuimos felices sin conocernos esa noche. 
+Cuando lo vi por primera vez, yo tenía trece años y él dieciséis. Estaba solo
+en la fiesta de Vanesa y me hizo recordar a mi padre por su forma de mirarme...
+esa mezcla de odio y culpa. Sentí el mismo vacío conocido adentro de su alma,
+de la misma naturaleza, que los va consumiendo para que busquen algo con qué
+llenarla. Pensábamos que ya estábamos listos para vivir y nos sostuvimos la
+mirada. Tomé su mano, lo separé de la pared que lo mantenía aprisionado y
+bailamos; fuimos felices sin conocernos esa noche.
 
-Crecimos a los tumbos y de golpe. Yo aprendí a moverme entre la gente; él dejó
-caer todas las pieles que lo envolvían y de repente estaba bajo el Sol del
-verano, envejeciendo, como todos los demás.
+Crecimos a los tumbos y de golpe, juntos cada tanto. Yo aprendí a moverme entre
+la gente, aprendí a jugar mis cartas; él dejó caer todas las pieles que lo
+envolvían y de repente estaba bajo el Sol del verano, siendo lo que es y
+mostrándose sin filtros, envejeciendo, como todos los demás. Nunca aprendió a
+jugar el juego de los adultos.
