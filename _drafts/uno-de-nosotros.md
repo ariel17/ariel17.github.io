@@ -7,20 +7,115 @@ title: Uno de nosotros
 
 Se sentó sacudiéndose las manos al lado del niño, en el suelo. Había puesto los
 fragmentos de vidrio dibujando la Cruz del Sur y el fuego se reflejaba
-débilmente. Fue la única constelación que se le vino a la cabeza.
+débilmente. Fue la única constelación que se le vino a la cabeza y no se sentía
+nada orgulloso por eso.
 
 -- ¿También eran amarillas?
 
 -- No. Sólo el Sol era amarillo. Las estrellas eran blancas y pequeñas.
 
 El chico miraba el dibujo seriamente, pero no parecía entender. Que en el cielo
-hubieran luces, dibujos, era difícil de imaginar. El viejo le palmeó dos veces
-la pierna y se fue a avivar un poco el fuego. Lo dejó con sus pensamientos.
+hubieran luces, dibujos, era difícil de imaginar. El viejo, que lo vió absorto
+en el dibujo del piso, le palmeó dos veces la pierna y se fue a avivar el
+fuego. Lo dejó con sus pensamientos.
 
-"Quiero contarte una historia" dijo el hombre mientras movía la madera en
-llamas. "Desde el momento en que llegaron las nubes negras al mundo
+Mantener la oscuridad a raya era cada vez más difícil. Las ramas y hojas se
+quemaban más rápido que antes y el cielo con sus nubes era gris por completo.
+Notó por el movimiento detrás suyo que el niño se estaba acostando.
 
-TODO
+-- ¿Me vas a contar un cuento?
+
+-- Hoy no. Me falta mucho el aire esta noche.
+
+Se dio vuelta y lo miró a los ojos que le devolvieron el reflejo del fuego,
+algo rojos, y le llenó de angustia, de imágenes del pasado. Le sonrió, no fuera
+a ser que la angustia sea contagiosa.
+
+-- Cuento no, pero puedo contarte una tontería y una buena noticia.
+
+-- ¡La tontería primero!
+
+-- La gente de antes vivía despierta de noche y se quejaba de sueño durante el
+   día. No les gustaba soñar.
+
+-- ¿Y cuándo dormían?
+
+-- Dormían cuando viajaban de un lado para el otro, a las apuradas para volver
+   de donde habían partido.
+
+-- Ahora la noticia.
+
+-- Cuando lleguemos a las montañas, seguramente veremos por fin el Fuerte.
+
+La sonrisa se le dibujó de oreja a oreja al niño. Le acomodó las mantas hasta
+el cuello y le acarició el rostro. El chico se acomodó, se dio vuelta; le dijo
+de esta manera que estaba conforme. En el corazón del viejo, la angustia cedió
+un poco como para sentir el peso del cansancio, pero como las gentes de antes,
+tenía que quedarse despierto para vigilar y para no soñar.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+Empeazaron la jornada cuando el aire cambió del negro al gris oscuro y luego
+de comer un poco reiniciaron su marcha en la ruta.
+
+El camino se estiraba hasta el horizonte frente a ellos y por detrás. El andar
+del viejo era lento y pesado, pero constante; el niño era más ágil y lo usaba
+como eje para ir y venir, pero no demasiado lejos: eran las reglas que te
+mantenían con vida. Los animales que habían sobrevivido habían cambiado también
+y ya ninguno era inofensivo. Todo era causa de este cambio en la atmósfera,
+algo en la cantidad de nitrógeno en el aire... Al viejo le daba culpa no haber
+entendido bien qué había sucedido; nunca había sido amigo de la ciencia. Si la
+Historia dependía de él ahora, iba a haber un hueco importante.
+
+Se detuvieron a media mañana bajo un grupo de árboles grises algo retorcidos.
+Mientras el viejo sacaba unos binoculares y miraba hacia atrás en el camino, el
+niño se entretenía tirando piedras a las ramas del árbol que arrojaban unas
+hojas blancas, casi transparentes y resecas. Pero el árbol no estaba muerto,
+sólo había cambiado su función: se adaptaron como los hombres que habían
+cambiado para volverse locos cuando el mundo cambió. 
+
+-- ¿Hay alguien?
+
+-- No, nadie, pequeño.
+
+Pero lo que había y vigilaba era una columna de humo que se levantaba a un día
+de distancia. La vió por primera vez hacía una semana y temía que no fuera sólo
+casualidad; siempre tenía la misma distancia. Hacía años que no veían un alma
+más que ellos mismos y habían esquivado los pueblos lo más que podían, pero a
+veces tenían que atravesarlos. Temía que hubiesen arrastrado consigo algo de la
+última urbe.
+
+Miraba al chico para no alejarle la vista mucho tiempo y luego volvió a ver por
+el aparato: una imagen fugaz de un rostro ahuesado, blanco, lo asustó e hizo
+unos pasos para atrás para controlarse, como si la imagen lo hubiese empujado.
+Sentía el corazón comenzándole a saltar en el pecho como en su juventud y se
+apuró a tomar al niño por la mano. Retomaron el camino a paso acelerado,
+tomados fuerte de la mano.
+
+-- ¿Qué sucede?
+
+-- ¿Te cuento otra tontería? --le decía para esconder su nerviosismo-- La gente
+   de antes se sentía sola aunque estuviesen rodeados de gente y no sabían cómo
+   hablarse uno con el otro.
+
+-- ¿Y si querían darse un abrazo?
+
+-- Todos querían, pero les daba vergüenza decirlo.
+
+-- A mí no me da vergüenza.
+
+
+-------------------------------------------------------------------------------
+
+TODO llegada del viejo
+
+TODO discusión
+
+TODO matar
+
+TODO final?
+
 
 
 ## Borrador
