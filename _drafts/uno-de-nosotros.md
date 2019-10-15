@@ -27,9 +27,9 @@ Notó por el movimiento detrás suyo que el niño se estaba acostando.
 
 -- Hoy no. Me falta mucho el aire esta noche.
 
-Se dio vuelta y lo miró a los ojos que le devolvieron el reflejo del fuego,
+Se dio vuelta y lo miró a los ojos que le devolvieron el reflejo de la luz,
 algo rojos, y le llenó de angustia, de imágenes del pasado. Le sonrió, no fuera
-a ser que la angustia sea contagiosa.
+a ser que se contagie la angustia.
 
 -- Cuento no, pero puedo contarte una tontería y una buena noticia.
 
@@ -40,24 +40,23 @@ a ser que la angustia sea contagiosa.
 
 -- ¿Y cuándo dormían?
 
--- Dormían cuando viajaban de un lado para el otro, a las apuradas para volver
-   de donde habían partido.
+-- Cuando viajaban de un lado para el otro, a las apuradas para volver de donde
+   habían partido.
 
 -- Ahora la noticia.
 
--- Cuando lleguemos a las montañas, seguramente veremos por fin el Fuerte.
+-- Cuando lleguemos a las montañas, seguramente veremos el Fuerte por fin.
 
 La sonrisa se le dibujó de oreja a oreja al niño. Le acomodó las mantas hasta
 el cuello y le acarició el rostro. El chico se acomodó, se dio vuelta; le dijo
-de esta manera que estaba conforme. En el corazón del viejo, la angustia cedió
-un poco como para sentir el peso del cansancio, pero como las gentes de antes,
-tenía que quedarse despierto para vigilar y para no soñar.
+de esta manera que estaba conforme. En el corazón del viejo, la pena cedió un
+poco como para sentir el peso del cansancio, pero como las gentes de antes,
+tenía que quedarse despierto para vigilar. Y para no soñar.
 
--------------------------------------------------------------------------------
--------------------------------------------------------------------------------
+===============================================================================
 
-Empeazaron la jornada cuando el aire cambió del negro al gris oscuro y luego
-de comer un poco reiniciaron su marcha en la ruta.
+Empezaron la jornada cuando el aire cambió su color del negro al gris oscuro.
+Luego de comer un poco reiniciaron su marcha en la ruta.
 
 El camino se estiraba hasta el horizonte frente a ellos y por detrás. El andar
 del viejo era lento y pesado, pero constante; el niño era más ágil y lo usaba
@@ -69,7 +68,7 @@ entendido bien qué había sucedido; nunca había sido amigo de la ciencia. Si l
 Historia dependía de él ahora, iba a haber un hueco importante.
 
 Se detuvieron a media mañana bajo un grupo de árboles grises algo retorcidos.
-Mientras el viejo sacaba unos binoculares y miraba hacia atrás en el camino, el
+Mientras el viejo sacaba los binoculares y miraba hacia atrás en el camino, el
 niño se entretenía tirando piedras a las ramas del árbol que arrojaban unas
 hojas blancas, casi transparentes y resecas. Pero el árbol no estaba muerto,
 sólo había cambiado su función: se adaptaron como los hombres que habían
@@ -80,18 +79,19 @@ cambiado para volverse locos cuando el mundo cambió.
 -- No, nadie, pequeño.
 
 Pero lo que había y vigilaba era una columna de humo que se levantaba a un día
-de distancia. La vió por primera vez hacía una semana y temía que no fuera sólo
-casualidad; siempre tenía la misma distancia. Hacía años que no veían un alma
-más que ellos mismos y habían esquivado los pueblos lo más que podían, pero a
-veces tenían que atravesarlos. Temía que hubiesen arrastrado consigo algo de la
-última urbe.
+de distancia. La vió por primera vez hacía una semana y luego todos los días.
+Temía que no fuera sólo casualidad; siempre tenía la misma distancia. Hacía
+años que no veían un alma más que ellos mismos y habían esquivado los pueblos
+lo más que podían, pero a veces tenían que atravesarlos. Temía que hubiesen
+arrastrado consigo algo de la última urbe.
 
-Miraba al chico para no alejarle la vista mucho tiempo y luego volvió a ver por
-el aparato: una imagen fugaz de un rostro ahuesado, blanco, lo asustó e hizo
-unos pasos para atrás para controlarse, como si la imagen lo hubiese empujado.
-Sentía el corazón comenzándole a saltar en el pecho como en su juventud y se
-apuró a tomar al niño por la mano. Retomaron el camino a paso acelerado,
-tomados fuerte de la mano.
+Miró al chico para no alejarle la vista mucho tiempo y luego volvió a ver por
+el aparato: una imagen fugaz de un rostro ahuesado casi blanco, a un palmo de
+distancia lo asustó e hizo unos pasos para atrás para controlarse, como si la
+imagen lo hubiese empujado. Volvió a ver y ya no estaba, sólo la señal de humo
+en la lejanía. Sentió el corazón saltándole en el pecho como en los peores
+momentos y se apuró a tomar al niño por la mano. Retomaron el camino a paso
+acelerado, tirándole con fuerza del brazo.
 
 -- ¿Qué sucede?
 
@@ -105,10 +105,99 @@ tomados fuerte de la mano.
 
 -- A mí no me da vergüenza.
 
+No se nombraban así mismos por su nombre: no había nadie más a quién hablarle.
+Los nombres pasaron a un segundo plano cuando se quedaron solos en el viaje.
 
--------------------------------------------------------------------------------
+Se alejaron lo más que pudieron de ese fantasma. Caminaron todo el día en
+silencio con la columna de humo, apenas perceptible atrás de ellos,
+saludándolos a la distancia.
 
-TODO llegada del viejo
+===============================================================================
+
+Un día más de camino, otra noche llegó como todas las demás. El niño había
+escuchado su cuento y dormía; el viejo trataba de vigilar y no cabecear, pero
+ya no tenía fuerzas para eso. Hacía fuerza para mantener los ojos abiertos,
+apoyado sobre el tronco de otro árbol retorcido. Todas las noches buscaban
+refugio bajo las ramas y la rutina, a estas horas de la noche, daba la
+impresión de que el mundo era una rueda que giraba y se detenía en el mismo
+lugar. El crepitar del fuego y la luz blanquecina absorbían su atención y las
+energías que usaba para estar despierto. Lo hacían recordar. La luz fue 
+apagando los demás sentidos y lo encandilaba, se hacía más brillante, igual que
+el día que ardió la iglesia y sintió el calor, las ansias de correr. Se vió
+corriendo otra vez, escapando de los hombres que se volvieron monstruos cuando
+el mundo los rechazó. Había ojos inyectados de sangre buscando a las *gentes de
+antes*, golpeando, masticando y destruyendo la carne que les pertenecía. El
+pecho le ardía del esfuerzo y pensaba que se le iba a partir en dos pero no
+pensaba era en parar; él sólo escapaba en cualquier dirección mirando el cielo,
+cada vez más gris por las nubes malas que se movían deprisa. Aún se filtraba el
+Sol entre los manchones celestes.
+
+Se escondió junto a otros detrás de un auto que había ardido y junto a él
+lloraba a gritos un hombre jóven... un muchacho, que conocía pero no recordaba
+el nombre; era inteligente, sabía cosas.
+
+-- ¡Es el Infierno! ¡Las puertas del Infierno se abrieron! ¡Y están en el
+   cielo! ¡Dios no está en el cielo sino los demonios!
+
+-- ¡Callate! ¡Silencio! O vendrán por nosotros. ¿Qué es lo que estás diciendo?
+
+-- ¡El nitrógeno! ¡Viene del cielo! ¡No fueron las fábricas que estallaron,
+   sino Hades que viene a reclamar lo que le pertenece! ¡MATARON A SU DIOS,
+   PADRE!
+
+El muchacho corrió despavorido por sus propias palabras, gritaba incoherencias.
+El viejo fue atrás de él sin saber bien qué hacer pero un grupo de hombres se
+le arrojaron encima desde arriba de las techos y sus huesos crujieron al
+recibir el impacto; el hombre nunca dejó de gritar con la mirada perdida
+mientras las garras le destrozaban la piel y la sangre manchaba las paredes. El
+viejo se cayó al piso de espaldas al ver el ataque, incapaz de hacer algo por
+sí mismo.
+
+Fue entonces que lo vió. Pensó que estaba muerto. Había muerto. Lo vio morirse
+hacía años. Pero ahí estaba, poniéndose de pié lentamente y buscando un sonido,
+el de su respiración, entre el barullo de la faena. La sangre que había brotado
+de sus ojos estaba seca y llegaba hasta el mentón: era su hijo. Se giró y lo
+miró furioso, mostrando los dientes partidos. Abrió la boca y gritó, le gritó,
+y se dirigió a la carrera hacia el viejo para continuar con la caza. El viejo
+veía al ser que era ahora su hijo corriendo a donde estaba él sin poder
+moverse... ¿qué hacer? ¿Y si de verdad era el infierno en la tierra? Las
+garras afiladas estaban listas para dar el golpe; cerró los ojos con miedo para
+recibirlo, aunque nada pasó. Abrió lo ojos nuevamente y estaba inmóvil, de pié
+a sus pies, y un murmullo salió de la boca ennegrecida:
+
+-- ¿Quién es?... ¿Hola?
+
+===============================================================================
+
+Despertó del susto y se paró en un segundo por instinto sin entender qué estaba
+pasando. El niño estaba despierto y sentado, apoyado sobre uno de sus brazos;
+veía hacia un punto afuera de la burbuja de luz que ofrecía el fuego, que se
+estaba apagando. Su mente rápidamente le dijo que eso era malo.
+
+-- ¿Quién es? --dijo el niño otra vez.
+
+-- ¿Qué sucede? ¿Qué escuchaste?
+
+-- Pasos. Uno, dos y tres, luego se detuvieron. Creí que eras vos, luego te vi
+   acostado. --se giró para mirarlo-- ¿Será gente de antes?
+
+El niño siempre hacía la misma pregunta y el viejo siempre esperaba que no.
+Siempre era un animal pequeño que se alejaba despavorida luego de rezar una
+plegaria pero esa noche lo tomaron desprevenido. Buscó en sus bolsillos la
+única arma que tenía consigo, pero el crucifijo no apareció. Rápidamente tomó
+dos maderas y las puso en cruz apuntando en la negrura. Escuchó pasos que se
+acercaban lentamente en su dirección y el sudor comenzó a brotar de su frente.
+
+Apareció la forma de un hombre, con las manos en alto, caminando tranquilo. Se
+detuvo a no mucha distancia, formando un triángulo con el niño y el viejo. La
+barba larga no tapaba los dientes marrones que mostraba su sonrisa, su rostro
+era blanco a la luz tenue del improvisado campamento. Los huesos de sus
+mejillas afilaban su rostro, pero no tenía los ojos oscuros, sólo una calma que
+no parecía propia de este nuevo mundo.
+
+
+
+
 
 TODO discusión
 
