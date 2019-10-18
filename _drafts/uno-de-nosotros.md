@@ -193,7 +193,52 @@ detuvo a no mucha distancia, formando un triángulo con el niño y el viejo. La
 barba larga no tapaba los dientes marrones que mostraba su sonrisa, su rostro
 era blanco a la luz tenue del improvisado campamento. Los huesos de sus
 mejillas afilaban su rostro, pero no tenía los ojos oscuros, sólo una calma que
-no parecía propia de este nuevo mundo.
+no parecía propia de este nuevo mundo. El fuego se interponía entre los tres.
+El hombre estaba allí sin más, en silencio, con las manos en alto, sus ojos
+saltaban del viejo al niño y de vuelta.
+
+-- ¿Puedo acercarme al calor? --dijo luego de unos momentos. El viejo lo
+apuntaba aún con la cruz y movía los labios murmurando algo por lo bajo pero
+muy decidido. Su respiración era pesada, hacía bajar y subir su pecho.
+
+El hombre, al no recibir respuesta, llenó el vacío con una extraña risa...
+empezaba de forma sutil y sonaba como si tuviera flemas en la garganta. Parecía
+que su garganta se lastimaba cada vez que forzaba a salir el aire de esa
+manera.
+
+-- Jjjjjajajajjj... Sólo quiero el calor. Si quisiera un cadáver, me habría
+   quedado en el agujero donde estaba.
+
+El viejo apoyó su mano en el hombro del niño y se agachó lentamente, sin
+sacarle los ojos al hombre. La cruz había quedado arrojada en el suelo.
+
+===============================================================================
+
+TODO
+
+===============================================================================
+
+-- Me voy a mear --dijo el niño.
+
+Mientras el chico caminaba somnoliento hacia un árbol alejado, el hombre
+comenzó a reir otra vez. El viejo giró su cabeza para verlo de frente.
+
+-- Jjjjjjjajjajajjjj... diría que es un buen chico, pero los recordaba más
+   despiertos. Éste parece un tarado.
+
+-- ¿No tienes suficiente ya? ¿Por qué no sigues tu camino, hombre?
+
+-- ¡Eehh! Jjjjajajajj.. ¡Te despertaste! Jjjjajajjj... Eh, ¿no me dejás
+   quedarme hasta la mañana? Todavía no les conté. ¡Eh mocoso! ¡Tengo cosas que
+   contarles!
+
+-- ¿Vas al fuerte también?
+
+-- Jjjjajajajajjjj... ¡¿Todavía estás con eso?! Te mintieron, nene, durante
+   toda tu vida.
+
+===============================================================================
+
 
 
 
