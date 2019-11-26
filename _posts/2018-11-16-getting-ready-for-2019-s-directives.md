@@ -16,7 +16,6 @@ This is a raw list to use for building 2019's priorities:
 * ["Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum & Maarten van Steen](https://www.goodreads.com/book/show/405614.Distributed_Systems)
 * ["Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)" by Michael T. Nygard](https://www.goodreads.com/book/show/1069827.Release_It_)
 * ["Codermetrics" by Jonathan Alexander](https://www.goodreads.com/book/show/12381856-codermetrics)
-* []()
 
 # Management
 

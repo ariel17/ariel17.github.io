@@ -239,6 +239,35 @@ comenzó a reir otra vez. El viejo giró su cabeza para verlo de frente.
 
 ===============================================================================
 
+El viejo se levantó despacio con una mano en el aire, buscando la del niño. La
+tomó sin sacarle la vista de encima.
+
+-- Padre nuestro, que estás en el Cielo, santificado sea tu Nombre..
+
+-- Jjjjajj... Son palabras vacías, Padre, sin sentido. Estamos en el Infierno
+   ahora ¿no lo sabías?
+
+-- ¡CORRE! --le dijo al niño empujándolo hacia atrás.
+
+El hombre se levantó también con esfuerzo y el fuego fulguró más fuerte, las
+llamas más altas. El rostro se le empapó de la sangre negra que le bajaba de
+las heridas de la frente.
+
+Corrieron fuera del arco de luz hasta la sombra de un tronco. La respiración
+pesada del hombre hacía ecos.
+
+-- Se lo que hay que hacer.
+
+===============================================================================
+
+El cuchillo bajó con sus ojos cerrados y no encontró resistencia en la carne
+del viejo. Una lágrima bajó por su nariz para caer sobre la mejilla y mezclarse
+con las de él. La empujó más y el dolor movió las expresiones de su rostro,
+pero al final, sonrió.
+
+Se hizo más oscuro por la sombra que se aproximaba.
+
+-- Nos volveremos a encontrar. 
 
 
 
