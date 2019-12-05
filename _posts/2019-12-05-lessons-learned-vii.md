@@ -13,11 +13,15 @@ date: 2019-12-05 11:03 -0300
   those projects (less re-take curve) and for me (more fresh things in my
   mind).
 
-* **Daily logging:** Trello for week + daily planning makes goals clear. The
-  downside is that it could lead to burnout due to stress on my own pressure to
-  complete them if the scope of tasks is too much.
+* **Daily logging:** [Trello][1] for week + daily planning makes goals clear.
+  The downside is that it could lead to burnout due to stress on my own
+  pressure to complete them if the scope of tasks is too much.
+
+  ![Personal Trello](/assets/lessons-learned-vii/trello.png)
 
 * **Make time worth; complete tasks in one shot makes more time available:**
   Take a task, sit my ass down and complete it in one shot makes more time
   available in the future for other tasks. Use with caution: the task has to be
   meaningful.
+
+[1]: https://trello.com
