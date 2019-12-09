@@ -34,6 +34,10 @@ collections:
     output: true
     permalink: /:collection/:name
 
+wiki:
+  url: https://arielgerardorios.gitbook.io/personal-wiki/
+  text: Wiki
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
