@@ -38,6 +38,11 @@ wiki:
   url: https://arielgerardorios.gitbook.io/personal-wiki/
   text: Wiki
 
+paginate: 5
+paginate_path: "blog/page:num"
+
+rss_enabled: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
