@@ -100,4 +100,4 @@ que está en el medio, es lo que soy.
 [1]: https://www.youtube.com/watch?v=CHOVUj7m_0I
 [2]: https://www.google.com/search?rlz=1C5CHFA_enAR830AR830&sxsrf=ACYBGNSy2qhwnNUoHgL5KbmOcOYjUiMYMA%3A1580693116845&ei=fHY3XuOnM-7I5OUPvNiuyAI&q=why+write+a+blog&oq=why+write+a+bl&gs_l=psy-ab.3.0.0i203l3j0i22i30l7.6045.8990..11675...1.4..1.251.1467.12j2j1......0....1..gws-wiz.......0i71j35i39j0i67j0j0i131j0i3.PTqA5igCl98
 [3]: {% post_url 2018-11-16-getting-ready-for-2019-s-directives %}
-[4]: [% post_url 2018-11-16-lessons-learned-iii %]
+[4]: {% post_url 2018-11-16-lessons-learned-iii %}
