@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steam console
-status: WIP
+status: Ready
 ---
 
 # Descripción
