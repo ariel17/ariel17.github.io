@@ -9,6 +9,8 @@ status: Ready
 Consola de juegos con [SteamOS][1] reutilizando una notebook [HP Pavilion
 dv6][2] que tenía roto el display.
 
+[Detalles de proceso acá.]({% post_url 2020-05-09-notebook-vieja-consola-de-juegos-el-final %})
+
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/315PWKDfG6HHQFP99"
