@@ -7,7 +7,7 @@ permalink: /about/
 My name is **Ariel Gerardo Ríos** and I am a father, husband and software
 developer.
 
-![Me](/assets/about/me.jpeg)
+![Me](/assets/about/me-900x900.png)
 
 I like to spend time learning new things and how the head works learning it,
 building habits and understanding how human relationships work. Also [I like to
