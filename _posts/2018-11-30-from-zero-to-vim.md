@@ -129,6 +129,7 @@ $ git clone git://github.com/altercation/vim-colors-solarized.git
 ```
 
 ```vim
+" Theme
 syntax enable
 set background=dark
 let g:solarized_termcolors=256
@@ -145,6 +146,7 @@ $ git clone git@github.com:bling/vim-airline
 ```
 
 ```vim
+" Status line
 set laststatus=2  
 set t_Co=256 
 set noshowmode
@@ -152,8 +154,6 @@ let g:airline_powerline_fonts = 1
 if !exists('g:airline_symbols')
     let g:airline_symbols = {}
 endif
-
-" unicode symbols
 let g:airline_left_sep = '»'
 let g:airline_left_sep = '▶'
 let g:airline_right_sep = '«'
@@ -166,8 +166,6 @@ let g:airline_symbols.paste = 'ρ'
 let g:airline_symbols.paste = 'Þ'
 let g:airline_symbols.paste = '∥'
 let g:airline_symbols.whitespace = 'Ξ'
-
-" airline symbols
 let g:airline_left_sep = ''
 let g:airline_left_alt_sep = ''
 let g:airline_right_sep = ''
@@ -294,7 +292,7 @@ au FileType go nmap <Leader>t <Plug>(go-def-tab)
 As last step, I must run `:GoInstallBinaries` to assert existence on commands.
 Now I can run some commands like `:GoBuild`, `:GoInstall` or `:GoRun`. Have fun.
 
-## Javascript
+## Javascript
 
 ```bash
 $ git clone git@github.com:pangloss/vim-javascript.git ~/.vim/bundle/vim-javascript
@@ -304,7 +302,7 @@ $ git clone git@github.com:pangloss/vim-javascript.git ~/.vim/bundle/vim-javascr
 let g:javascript_plugin_jsdoc = 1
 ```
 
-## React
+## React
 
 ```bash
 $ git clone git@github.com:mxw/vim-jsx.git ~/.vim/bundle/vim-jsx
