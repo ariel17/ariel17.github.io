@@ -75,3 +75,14 @@ interesting and I don't want to give up on learning product design through lean
 methodology.
 
 That's it. Let's write the progress in a weekly basis.
+
+# Updates
+
+## 2021-04-09
+
+The weekly basis thing is the first thing that failed XD.
+
+The most evident diffulty was the constant search every day on activities to
+perfom. It complicated the continuity on next weeks bacause there was not a
+clear plan about exercises to do. I will append an _activities_ item in the
+daily plan to reduce the time searching on what to do.
