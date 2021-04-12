@@ -104,12 +104,12 @@ That's it. Let's write the progress in a weekly basis.
 
 ## 2021-04-09
 
-The weekly basis thing is the first thing that failed XD.
+The "weekly basis" thing is the first thing that failed XD.
 
-The most evident diffulty was the constant search every day on activities to
-perfom. It complicated the continuity on next weeks bacause there was not a
-clear plan about exercises to do. I will append an _activities_ item in the
-daily plan to reduce the time searching on what to do.
+The most evident difficulty was the constant search on every day for activities
+to perfom. It complicated the continuity on next weeks bacause there was not a
+clear plan about what exercises to do. I will append _activity_ items in the
+daily plan to solve it.
 
 ## 2021-04-11
 
