@@ -48,24 +48,42 @@ due to global situation and it wasn't to end well. And done something about it.
 The next itinerary is a **proposal**; it will be mutating with time for sure.
 
 ### Monday
+
 * Morning: Golang katas.
 * Afternoon: Python katas.
+
+[Code Wars](https://www.codewars.com/)
 
 ### Tuesday
 * Morning: Technical reading (blogs or a specific book).
 * Afternoon: Java katas.
 
+[Code Wars](https://www.codewars.com/)
+[Martin Fowler](https://www.martinfowler.com/)
+[The New Stack](https://thenewstack.io/)
+[Building Microservices: Designing Fine-Grained Systems - Sam Newman](https://www.goodreads.com/book/show/22512931-building-microservices)
+[Designing Data-Intensive Applications - Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+
 ### Wednesday
 * Morning: Algorithms katas.
 * Afternoon: Containers katas (if they exists).
+
+[Code Wars - Algorithms kata](https://www.codewars.com/collections/algorithms-kata)
+[Play with Docker classroom](https://training.play-with-docker.com/alacart/)
 
 ### Thursday
 * Morning: Design pattern katas.
 * Afternoon: Soft skills reading (practicing?).
 
+[Code Wars - Design patterns](https://www.codewars.com/collections/design-patterns)
+[Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
+[Los fantasmas de mi vida: Escritos sobre depresión, hauntología y futuros perdidos - Mark Fisher](https://www.goodreads.com/book/show/38937969-los-fantasmas-de-mi-vida)
+
 ### Friday
 * Morning: validate business ideas (lean) and build.
 * Afternoon: English talk practices.
+
+[Mate Club de Conversación](https://mate-club.com.ar/)
 
 # Easy... right?
 
@@ -86,3 +104,7 @@ The most evident diffulty was the constant search every day on activities to
 perfom. It complicated the continuity on next weeks bacause there was not a
 clear plan about exercises to do. I will append an _activities_ item in the
 daily plan to reduce the time searching on what to do.
+
+## 2021-04-11
+
+Added options for every day; spent half morning on it.
