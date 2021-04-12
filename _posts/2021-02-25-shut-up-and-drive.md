@@ -62,9 +62,13 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 * Afternoon: Java katas.
 
 [Code Wars](https://www.codewars.com/)
+
 [Martin Fowler](https://www.martinfowler.com/)
+
 [The New Stack](https://thenewstack.io/)
+
 [Building Microservices: Designing Fine-Grained Systems - Sam Newman](https://www.goodreads.com/book/show/22512931-building-microservices)
+
 [Designing Data-Intensive Applications - Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 
 ### Wednesday
@@ -73,7 +77,9 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 * Afternoon: Containers katas (if they exists).
 
 [Code Wars - Algorithms kata](https://www.codewars.com/collections/algorithms-kata)
+
 [Play with Docker classroom](https://training.play-with-docker.com/alacart/)
+
 [O'Reilly Katacoda](https://www.katacoda.com/courses/docker)
 
 ### Thursday
@@ -82,7 +88,9 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 * Afternoon: Soft skills reading (practicing?).
 
 [Code Wars - Design patterns](https://www.codewars.com/collections/design-patterns)
+
 [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
+
 [Los fantasmas de mi vida: Escritos sobre depresión, hauntología y futuros perdidos - Mark Fisher](https://www.goodreads.com/book/show/38937969-los-fantasmas-de-mi-vida)
 
 ### Friday
