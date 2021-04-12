@@ -23,7 +23,7 @@ due to global situation and it wasn't to end well. And done something about it.
  And done it again, and again, and again... and now it is almost 11 months of
  continuous body development. I can do this, I know I can. I just need a plan.
 
-# What I want to achieve?
+## What I want to achieve?
 
 * Be up-to-date on languages I like to work with.
 * Gain experience on system design at high (distributed systems) and low
@@ -36,27 +36,27 @@ due to global situation and it wasn't to end well. And done something about it.
 * Product design capabilities.
 * Enhanced writing abilities.
 
-# Constraints
+## Constraints
 
 * Needs to be fun to do.
 * Ready for access in any time.
 
-# How?
+## How?
 
 * Daily rutine: 1 hour before the working day, 1 hour after it.
 
 The next itinerary is a **proposal**; it will be mutating with time for sure.
 
-# Plan
+## Plan
 
-## Monday
+### Monday
 
 * Morning: Golang katas.
 * Afternoon: Python katas.
 
 [Code Wars](https://www.codewars.com/)
 
-## Tuesday
+### Tuesday
 
 * Morning: Technical reading (blogs or a specific book).
 * Afternoon: Java katas.
@@ -67,7 +67,7 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 [Building Microservices: Designing Fine-Grained Systems - Sam Newman](https://www.goodreads.com/book/show/22512931-building-microservices)
 [Designing Data-Intensive Applications - Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 
-## Wednesday
+### Wednesday
 
 * Morning: Algorithms katas.
 * Afternoon: Containers katas (if they exists).
@@ -75,7 +75,7 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 [Code Wars - Algorithms kata](https://www.codewars.com/collections/algorithms-kata)
 [Play with Docker classroom](https://training.play-with-docker.com/alacart/)
 
-## Thursday
+### Thursday
 
 * Morning: Design pattern katas.
 * Afternoon: Soft skills reading (practicing?).
@@ -84,14 +84,14 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
 [Los fantasmas de mi vida: Escritos sobre depresión, hauntología y futuros perdidos - Mark Fisher](https://www.goodreads.com/book/show/38937969-los-fantasmas-de-mi-vida)
 
-## Friday
+### Friday
 
 * Morning: validate business ideas (lean) and build.
 * Afternoon: English talk practices.
 
 [Mate Club de Conversación](https://mate-club.com.ar/)
 
-# Easy... right?
+## Easy... right?
 
 It's that the way I want to live? Hard to say. It's that or sell some redundant
 body organs I don't use. The think about validating business is really
@@ -100,9 +100,9 @@ methodology.
 
 That's it. Let's write the progress in a weekly basis.
 
-# Updates
+## Updates
 
-## 2021-04-09
+### 2021-04-09
 
 The "weekly basis" thing is the first thing that failed XD.
 
@@ -111,6 +111,6 @@ to perfom. It complicated the continuity on next weeks bacause there was not a
 clear plan about what exercises to do. I will append _activity_ items in the
 daily plan to solve it.
 
-## 2021-04-11
+### 2021-04-11
 
 Added options for every day; spent half morning on it.
