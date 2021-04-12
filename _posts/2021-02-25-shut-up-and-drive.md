@@ -89,7 +89,7 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 
 [Code Wars - Design patterns](https://www.codewars.com/collections/design-patterns)
 
-[Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
+[Influence: The Psychology of Persuasion - Robert B. Cialdini](https://www.goodreads.com/book/show/28815.Influence)
 
 [Los fantasmas de mi vida: Escritos sobre depresión, hauntología y futuros perdidos - Mark Fisher](https://www.goodreads.com/book/show/38937969-los-fantasmas-de-mi-vida)
 
