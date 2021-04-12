@@ -74,6 +74,7 @@ The next itinerary is a **proposal**; it will be mutating with time for sure.
 
 [Code Wars - Algorithms kata](https://www.codewars.com/collections/algorithms-kata)
 [Play with Docker classroom](https://training.play-with-docker.com/alacart/)
+[O'Reilly Katacoda](https://www.katacoda.com/courses/docker)
 
 ### Thursday
 
