@@ -9,7 +9,9 @@ status: Ready
 
 # Descripción
 
-TODO
+A simple bot that will be monitoring the Twitter timeline searching for an
+specific hashtag: "#ariel17echobot" and send a previously configured text as
+answer.
 
 # Status
 
@@ -17,4 +19,8 @@ Ready.
 
 ## Resources
 
-TODO
+* Golang programming language.
+* Twitter API.
+* Amazon Web Services.
+* Terraform IaC.
+* Docker.
