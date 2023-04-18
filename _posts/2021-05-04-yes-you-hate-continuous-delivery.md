@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yes, you hate Continuous Delivery (and your team too)
+title: Yes, you hate Continuous Delivery (and your team does too)
 date: 2021-05-04 10:47 -0300
 ---
 
