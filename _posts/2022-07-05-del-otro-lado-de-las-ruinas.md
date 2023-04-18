@@ -71,10 +71,10 @@ y ya no tienen propósito.
 No quiero ser alguien la mitad del tiempo. Así que voy a mirar por el hueco que
 se abrió en eso que era tan sólido, a descubrir lo que haya del otro lado.
 
-![hueco](/assets/epecuen/hueco.jpeg)
+<br>
 
-<br>
-<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eaGpdhienMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 
 _"I remember running to the sea_<br>
@@ -82,4 +82,4 @@ _The burning houses and the trees_<br>
 _I remember running to the sea_<br>
 _Alone and blinded by the fear"_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eaGpdhienMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![hueco](/assets/epecuen/hueco.jpeg)
