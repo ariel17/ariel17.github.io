@@ -50,6 +50,9 @@ y las decisiones difíciles:
 tuve el regalo de su amor."
 ```
 <br />
+<p style="text-align: right">Para Gabriela. Gracias por todo lo hermoso :)</p>
+<br />
+<br />
 <br />
 
 ![Gabriela](/assets/gabriela.jpg)
