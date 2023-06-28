@@ -9,7 +9,7 @@ date: 2018-12-21 16:28 -0300
 - **Pre-mortems are better than post-mortems**: Thinking ahead of time about
   future problems is better than having to give explanations about why I didn't
   think in possible failure scenarios.
-- **Trust anyone**: no matter if I have confirmation from external sources, I
+- **Trust no one**: no matter if I have confirmation from external sources, I
   have to obtain my own confirmations.
 
 # Links
