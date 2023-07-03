@@ -49,7 +49,7 @@ services:
 ```dockerfile
 # Dockerfile
 FROM nginx
-LABEL maintainer "ariel.gerardo.rios@gmail.com"
+LABEL maintainer "arielgerardorios@gmail.com"
 
 COPY ["nginx.conf", "/etc/nginx/nginx.conf"]
 ```
