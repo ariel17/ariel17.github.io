@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 My name is **Ariel Gerardo Ríos** and I am a father and work as a software
-engineer.
+engineer. Get my resume [here](/assets/ariel.gerardo.rios.pdf).
 
 ![Me](/assets/about/me-900x900.png)
 
