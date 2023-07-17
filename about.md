@@ -4,17 +4,15 @@ title: Me
 permalink: /about/
 ---
 
-My name is **Ariel Gerardo Ríos** and I am a father, husband and software
-developer.
+My name is **Ariel Gerardo Ríos** and I am a father and work as a software
+engineer.
 
 ![Me](/assets/about/me-900x900.png)
 
-I like to spend time learning new things and how the head works learning it,
-building habits and understanding how human relationships work. Also [I like to
-read (a lot)][1], do some write and play the guitar, although I'm not spending
-on the last two the time I would like... but I'm working on it.
+I love to learn new things and how the head makes it work, building habits and
+understanding human relationships, at any scale. Also [I like to read (a 
+lot)][1], write some and build distributed systems.
 
-What about coding? I like to code :), learning new technologies but also
-getting ready for management and leadership.
+I feel so grateful to be able to do all the things I like.
 
 [1]: https://www.goodreads.com/review/list/16241804-ariel-gerardo-r-os?shelf=read
